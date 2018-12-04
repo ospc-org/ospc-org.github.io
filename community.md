@@ -7,10 +7,8 @@ layout: page
 
 The maintainance of this site and the rest of OSPC's organizational activity takes place of GitHub.
 
-OSPC staff, alumni, and core maintainers include:
-
 <br>
-<h1><b>Staff</b></h1>
+<h1><b>OSPC Staff</b></h1>
 
 <img src="/images/jensen.jpg" alt="OSPC" width="200"><br>
 <p>Matt Jensen</p>
@@ -27,7 +25,7 @@ OSPC staff, alumni, and core maintainers include:
 <img src="/images/metz.jpg" alt="OSPC" width="200">
 <p>Peter Metz</p><br>
 
-<h1><b>Contributors</b></h1>
+<h1><b>OSPC Incubator Alumni</b></h1>
 <img src="/images/boyd.jpg" alt="OSPC" width="200"><br>
 <p>Don Boyd</p>
 <br>
@@ -64,7 +62,7 @@ OSPC staff, alumni, and core maintainers include:
 <p>Weifeng Zhong</p>
 <br>
 
-<h1><b>Alumni</b></h1>
+<h1><b>OSPC Staff Alumni</b></h1>
 <img src="/images/brown.jpg" alt="OSPC" width="200"><br>
 <p>Ed Brown</p>
 <br>
