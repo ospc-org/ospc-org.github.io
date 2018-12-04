@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-<h2><center>Sharing new open source tools, events, and resources for simulating policy outcomes.</center></h2>
+<h2 style="color:gray"><center>Sharing new open source tools, events, and resources for simulating policy outcomes.</center></h2>
 
 <center>
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>
@@ -15,7 +15,7 @@ layout: page
 <script>MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1179);</script>
 
 <br><br>
-<h1>Want to improve policymaking?</h1>
+<h1 style="color:gray">Want to improve policymaking?</h1>
 
 <center><form>
 	<input style="width: 125px; padding: 10px; cursor: pointer; font-weight: bold; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 100%;" type="button" value="Donate" onclick="window.location.href='http://localhost:4000/donate'"
