@@ -11,7 +11,7 @@ layout: page
 
 <br>
 
-####Opioid (not yet named)
+#### Opioid (not yet named)
 *Estimates state-level and county-level economic burdens of the opioid crisis*
 
 <br>
@@ -28,15 +28,19 @@ layout: page
 
 ## **Incubated**
 
-<h4>B-Tax &emsp; <img src="/images/ccc.png" alt="OSPC" width="125"></h4>
+<img src="/images/ccc.png" alt="OSPC" width="125">
+<br><br>
+<img src="/images/taxbrain.png" alt="OSPC" width="125">
 
 #### Border Adjustment Calculator
+
+#### B-Tax
 
 #### C-TAM
 
 #### OG-USA
 
-<h4>Tax-Calculator &emsp; <img src="/images/taxbrain.png" alt="OSPC" width="125"></h4>
+#### Tax-Calculator
 
 #### Tax-Calculator: Behavioral-Responses
 
