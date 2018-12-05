@@ -5,14 +5,10 @@ permalink: /community/
 layout: page
 ---
 
-The maintainance of this site and the rest of OSPC's organizational activity takes place of GitHub.
+The maintainance of this site and the rest of OSPC's organizational activity takes place on [GitHub](https://github.com/open-source-economics).
 
 <br>
 <h1><b>OSPC Staff</b></h1>
-
-<img src="/images/jensen.jpg" alt="OSPC" width="200"><br>
-<p>Matt Jensen</p>
-<br>
 
 <img src="/images/doupe.jpg" alt="OSPC" width="200"><br>
 <p>Hank Doupe</p>
@@ -20,6 +16,10 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 
 <img src="/images/frailey.jpg" alt="OSPC" width="200"><br>
 <p>Anderson Frailey</p>
+<br>
+
+<img src="/images/jensen.jpg" alt="OSPC" width="200"><br>
+<p>Matt Jensen</p>
 <br>
 
 <img src="/images/metz.jpg" alt="OSPC" width="200">
@@ -48,6 +48,10 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 
 <img src="/images/ghenis.jpg" alt="OSPC" width="200"><br>
 <p>Max Ghenis</p>
+<br>
+
+<img src="/images/holmer.png" alt="OSPC" width="200"><br>
+<p>Martin Holmer</p>
 <br>
 
 <img src="/images/kallen.jpg" alt="OSPC" width="200"><br>

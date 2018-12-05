@@ -6,6 +6,8 @@ layout: page
 
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
 
+<p><a href="https://peter-metz.github.io/newsletter12.05.2018/">December 05, 2018 Newsletter</a></p>
+
 <p><a href="https://peter-metz.github.io/newsletter11.15.2018/">November 15, 2018 Newsletter</a></p>
 
 <p><a href="https://peter-metz.github.io/newsletter11.02.2018/">November 02, 2018 Newsletter</a></p>
