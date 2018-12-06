@@ -13,12 +13,3 @@ layout: page
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>
 <form id="mktoForm_1179"></form>
 <script>MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1179);</script>
-
-<br><br>
-<h1 style="color:gray">Want to improve policymaking?</h1>
-
-<center><form>
-	<input style="width: 125px; padding: 10px; cursor: pointer; font-weight: bold; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 100%;" type="button" value="Donate" onclick="window.location.href='https://peter-metz.github.io/donate/'"
-	/>
-</form>
-</center>

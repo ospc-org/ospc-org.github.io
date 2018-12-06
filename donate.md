@@ -2,7 +2,7 @@
 title: Donate
 permalink: /donate/
 layout: page
-exclude: true
+order: 5
 ---
 
 <script src='https://widgets.kimbia.com/widgets/form.js?channel=aei/ospc'></script>

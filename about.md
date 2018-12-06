@@ -3,6 +3,7 @@
 title: About
 permalink: /about/
 layout: page
+order: 1
 ---
 
 ### Everything we incubate is open source

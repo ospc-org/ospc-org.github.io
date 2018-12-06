@@ -2,6 +2,7 @@
 title: Portfolio
 permalink: /portfolio/
 layout: page
+order: 3
 ---
 <style>
 .wrap{

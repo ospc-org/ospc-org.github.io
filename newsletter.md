@@ -2,6 +2,7 @@
 title: Newsletter
 permalink: /newsletter/
 layout: page
+order: 4
 ---
 
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
