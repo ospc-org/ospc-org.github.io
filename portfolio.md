@@ -65,17 +65,24 @@ order: 3
 		</div>
 	</div>
 	<div class ="card">
-		<img src ="/images/ccc.png"  style="height:30%; margin:20px 0px 15px 0px">
+		<img src ="/images/btax.jpg"  style="height:30%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>B-Tax</b></h4>
 			<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
+		</div>
+	</div>
+		<div class ="card">
+		<img src ="/images/ccc.png"  style="height:30%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Cost of Capital Calculator</b></h4>
+			<p><i>Webapp interface for B-Tax</i></p>
 		</div>
 	</div>
 	<div class ="card">
 		<img src ="/images/C-TAM.jpg" style="height:30%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>C-TAM</b></h4>
-			<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer porgram benefits</i></p>
+			<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
 		</div>
 	</div>
 		<div class ="card">
@@ -85,8 +92,15 @@ order: 3
 			<p><i>Overlapping-generations model for evaluating fiscal policy in the US</i></p>
 		</div>
 	</div>
-		<div class ="card">
+	<div class ="card">
 		<img src ="/images/taxbrain.png" style="height:30%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Tax Brain</b></h4>
+			<p><i>Webapp interface for Tax-Calculator</i></p>
+		</div>
+	</div>
+		<div class ="card">
+		<img src ="/images/taxcalc.jpg" style="height:30%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Tax-Calculator</b></h4>
 			<br>
