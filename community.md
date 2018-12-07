@@ -97,7 +97,7 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 </div>
 
 
-<h1><b>OSPC Incubator Alumni</b></h1>
+<h1><b>OSPC Incubator</b></h1>
 
 <div class ="wrap">
 	<div class ="card">
