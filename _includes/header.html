@@ -14,14 +14,11 @@
       </span>
 
       <div class="trigger">
-        {% assign sorted_pages = site.pages | sort:"order" %}
-        {% for my_page in sorted_pages %}
-          {% if my_page.title %}
-          {% unless my_page.exclude %}
-          <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-          {% endunless %}
-          {% endif %}
-        {% endfor %}
+          <a class="page-link" href="/#about">About</a>
+          <a class="page-link" href="/#community">Community</a>
+          <a class="page-link" href="/#portfolio">Portfolio</a>
+          <a class="page-link" href="/newsletter/">Newsletter</a>
+          <a class="page-link" href="/donate/">Donate</a>
       </div>
     </nav>
 
