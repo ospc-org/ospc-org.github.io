@@ -19,7 +19,7 @@ layout: page
 
 <br>
 
-<h1 style="color:gray"><center>We incubate and share new open source tools, events, and resources for simulating policy outcomes.</center></h1>
+<h1 style="color:gray"><center>We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</center></h1>
 
 <center>
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>

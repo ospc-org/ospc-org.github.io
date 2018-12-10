@@ -7,9 +7,11 @@ exclude: true
 
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
 
-[November 15, 2018 Newsletter](http://localhost:4000/newsletter11.15.2018/)
+<p><a href="https://peter-metz.github.io/newsletter12.05.2018/">December 05, 2018 Newsletter</a></p>
 
-[November 02, 2018 Newsletter](http://localhost:4000/newsletter11.02.2018/)
+<p><a href="https://peter-metz.github.io/newsletter11.15.2018/">November 15, 2018 Newsletter</a></p>
+
+<p><a href="https://peter-metz.github.io/newsletter11.02.2018/">November 02, 2018 Newsletter</a></p>
 
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>
 <form id="mktoForm_1179"></form>

@@ -39,12 +39,46 @@ order: 2
 	float:left;
 	margin: 20px 500px 50px 0px;
 }
+.cardbottom{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 250px;
+	height: 220px;
+	background:#fff;
+	text-align:center;
+	float:left;
+	margin: 20px 40px 50px 0px;
+}
 </style>
 
 The maintainance of this site and the rest of OSPC's organizational activity takes place on [GitHub](https://github.com/PSLmodels).
 
 <br>
-<h1><b>OSPC Staff</b></h1>
+<h1><b>Investment Committee</b></h1>
+<div class ="wrap">
+	<div class ="cardbottom">
+		<img src ="/images/brill.jpg"  style="height:40%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Alex Brill</b></h4>
+			<p><i>American Enterprise Institute</i></p>
+		</div>
+	</div>
+	<div class ="cardbottom">
+		<img src ="/images/jensen.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Matt Jensen</b></h4>
+			<p><i>American Enterprise Institute</i></p>
+		</div>
+	</div>
+	<div class ="cardbottom">
+		<img src ="/images/strain.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Michael Strain</b></h4>
+			<p><i>American Enterprise Institute</i></p>
+		</div>
+	</div>
+
+<h1 style="margin:0px 100px 0px 0px"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
 		<div class ="card">
@@ -69,21 +103,21 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/jensen.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Matt Jensen</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/metz.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Peter Metz</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="card">
+	<div class ="cardbottom">
 		<p style="margin:0px 0px 0px 180px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:14px"><i>Alumnus</i></p>
 		<img src ="/images/wang.jpg" style="height:40%; margin:0px 0px 15px 0px">
 		<div class ="container">
@@ -93,9 +127,7 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 	</div>
 </div>
 
-<br>
-
-<h1 style="margin:0px 0px 0px 0px"><b>OSPC Incubator</b></h1>
+<h1 style="margin:0px 100px 0px 0px"><b>OSPC Incubator</b></h1>
 
 <div class ="wrap">
 	<div class ="card">
