@@ -47,6 +47,14 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 <h1><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
+		<div class ="card">
+		<p style="margin:0px 0px 0px 180px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:14px"><i>Alumnus</i></p>
+		<img src ="/images/brown.jpg"  style="height:40%; margin:0px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Edward Brown</b></h4>
+			<p><i>Bureau of Labor Statistics</i></p>
+		</div>
+	</div>
 	<div class ="card">
 		<img src ="/images/doupe.jpg"  style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
@@ -68,27 +76,16 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-		<div class ="cardlast">
+		<div class ="card">
 		<img src ="/images/metz.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Peter Metz</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-</div>
-
-<h1><b>OSPC Staff Alumni</b></h1>
-
-<div class ="wrap">
 	<div class ="card">
-		<img src ="/images/brown.jpg"  style="height:40%; margin:20px 0px 15px 0px">
-		<div class ="container">
-			<h4><b>Edward Brown</b></h4>
-			<p><i>Bureau of Labor Statistics</i></p>
-		</div>
-	</div>
-		<div class ="cardsecond">
-		<img src ="/images/wang.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<p style="margin:0px 0px 0px 180px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:14px"><i>Alumnus</i></p>
+		<img src ="/images/wang.jpg" style="height:40%; margin:0px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Sean Wang</b></h4>
 			<p><i>New York University</i></p>
@@ -96,8 +93,9 @@ The maintainance of this site and the rest of OSPC's organizational activity tak
 	</div>
 </div>
 
+<br>
 
-<h1><b>OSPC Incubator</b></h1>
+<h1 style="margin:0px 0px 0px 0px"><b>OSPC Incubator</b></h1>
 
 <div class ="wrap">
 	<div class ="card">
