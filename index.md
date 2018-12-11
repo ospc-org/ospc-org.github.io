@@ -8,59 +8,82 @@ layout: page
 .card{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 250px;
+	width: 200px;
 	height: 220px;
 	background:#fff;
 	text-align:center;
 	float:left;
 	margin: 20px 40px 20px 0px;
 }
-.cardsecond{
+.cardlast{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 250px;
+	width: 200px;
 	height: 220px;
 	background:#fff;
 	text-align:center;
 	float:left;
 	margin: 20px 200px 50px 0px;
 }
-.cardlast{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
-	transition: 0.4s;
-	width: 250px;
-	height: 220px;
-	background:#fff;
-	text-align:center;
-	float:left;
-	margin: 20px 500px 50px 0px;
-}
 .cardbottom{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 250px;
+	width: 200px;
 	height: 220px;
 	background:#fff;
 	text-align:center;
 	float:left;
 	margin: 20px 40px 50px 0px;
 }
+.portcard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 320px;
+	height: 250px;
+	background:#fff;
+	text-align:center;
+	float:left;
+	margin: 20px 40px 20px 0px;
+}
+.portcardlast{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 350px;
+	height: 250px;
+	background:#fff;
+	text-align:center;
+	float:left;
+	margin: 20px 400px 50px 0px;
+}
 </style>
 
-<center><img src="/images/OSPC_logo.png" alt="OSPC"></center>
-<h1><center><b>Open Source Policy Center</b></center></h1>
-<h1 style="color:gray"><center>We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</center></h1>
+<center><img src="/images/OSPC_logo.png" alt="OSPC">
+<h1><b>Open Source Policy Center</b></h1>
 
-<center>
+<br>
+
+<h1 style="color:gray">We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</h1>
+
+
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>
 <form id="mktoForm_1179"></form>
 <script>MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1179);</script>
-<br><br><br>
+<br><br>
+</center>
 
-<h1 align="left">About</h1>
+<main class="page-content" aria-label="Content">
+	<div class="wrapper">
+        <article class="post">
+
+<center><img style="opacity:.5" src="/images/capitol.jpg"></center>
+
+<br>
 
 <section id="about"></section>
-<h3 align="left">Everything we incubate is open source</h3>
+
+<h2 align="left">About</h2>
+
+<h1 align="left">Everything we incubate is open source</h1>
 
 <p align="left">The Open Source Policy Center is built on the principal that better public policy analysis leads to better public policy. Through the study and application of open source techniques for policy analysis, we aim to systematically improve the policymaking process by increasing the accuracy and accessibility of cutting edge models. This approach is based on the core belief that the way to optimize government is by carefully assessing policy options using transparent models and evidence-based assumptions, thereby enabling the free competition of ideas in this computer age. No matter your policy aims, the most honest and productive way to argue for them is through open, evidenced based and reproducible analyses.</p>
 <div style="text-align:left">
@@ -73,7 +96,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 
 <p align="left">Matt Jensen</p>
 <p align="left">Director</p>
-<img src="/images/jensen.jpg" alt="OSPC" width="200" align="left" style="margin:0px 550px 40px 0px">
+<img src="/images/jensen.jpg" width="200" align="left" style="margin:0px 550px 40px 0px">
 
 <br>
 <br>
@@ -84,7 +107,10 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 <p id="OG-USA" style="text-align:left">[4] Overlapping generations model for evaluating fiscal policy in the US</p>
 <p id="PSL" style="text-align:left">[5] Open source software library for public policy decision-making</p>
 </div>
-<br><br>
+
+<br>
+<center><img style="opacity:.5" src="/images/flag.jpg"></center>
+<br>
 <section id="community"></section>
 <h2 align="left">Community</h2>
 
@@ -107,7 +133,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardbottom">
+	<div class ="cardlast">
 		<img src ="/images/strain.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Michael Strain</b></h4>
@@ -119,44 +145,44 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 
 <div class ="wrap">
 		<div class ="card">
-		<p style="margin:0px 0px 0px 180px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:14px"><i>Alumnus</i></p>
-		<img src ="/images/brown.jpg"  style="height:40%; margin:0px 0px 15px 0px">
+		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
+		<img src ="/images/brown.jpg"  style="height:40%; margin:10px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Edward Brown</b></h4>
 			<p><i>Bureau of Labor Statistics</i></p>
 		</div>
 	</div>
 	<div class ="card">
-		<img src ="/images/doupe.jpg"  style="height:40%; margin:20px 0px 15px 0px">
+		<img src ="/images/doupe.jpg"  style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Hank Doupe</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="card">
-		<img src ="/images/frailey.jpg" style="height:40%; margin:20px 0px 15px 0px">
+	<div class ="cardlast">
+		<img src ="/images/frailey.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Anderson Frailey</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
 		<div class ="cardbottom">
-		<img src ="/images/jensen.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<img src ="/images/jensen.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Matt Jensen</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
 		<div class ="cardbottom">
-		<img src ="/images/metz.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<img src ="/images/metz.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Peter Metz</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardbottom">
-		<p style="margin:0px 0px 0px 180px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:14px"><i>Alumnus</i></p>
-		<img src ="/images/wang.jpg" style="height:40%; margin:0px 0px 15px 0px">
+	<div class ="cardlast">
+		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
+		<img src ="/images/wang.jpg" style="height:40%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Sean Wang</b></h4>
 			<p><i>New York University</i></p>
@@ -181,7 +207,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Boyd Research LLC; Center for Policy Research</i></p>
 		</div>
 	</div>
-	<div class ="card">
+	<div class ="cardlast">
 		<img src ="/images/brill.jpg"  style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Alex Brill</b></h4>
@@ -202,7 +228,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>University of South Carolina</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardlast">
 		<img src ="/images/evans.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Richard Evans</b></h4>
@@ -223,7 +249,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Georgia Institute of Technology</i></p>
 		</div>
 	</div>
-	<div class ="card">
+	<div class ="cardlast">
 		<img src ="/images/ghenis.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Max Ghenis</b></h4>
@@ -244,28 +270,28 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Policy Simulation Group</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardlast">
 		<img src ="/images/kallen.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Cody Kallen</b></h4>
 			<p><i>University of Wisconsin - Madison</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/ohare.png" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>John O'Hare</b></h4>
 			<p><i>Quantria Strategies</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>University of Chicago</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardlast">
 		<img src ="/images/zhong.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
@@ -274,3 +300,146 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 	</div>
 </div>
 </div>
+<br><br>
+
+
+<center><img style="opacity:.5" src="/images/monuments.jpg"></center>
+<br>
+<section id="portfolio"></section>
+<h2 align="left" style="margin:0px 0px 0px 0px width:2000px">Portolfio</h2>
+
+<div class ="wrap">
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/bac.jpg"  style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Border Adjustment Calculator</b></h4>
+			<p><i>Simulates the affect of a border adjustment on a respresentative firm</i></p>
+		</div>
+	</div>
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/btax.jpg"  style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>B-Tax</b></h4>
+			<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
+		</div>
+	</div>
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/tax_form.jpg"  style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Business-Individual Combined Tax Simulation</b></h4>
+			<p><i>Evaluates tax reform with changes to both corporate and individual income tax policy</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/ccc.png"  style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Cost of Capital Calculator</b></h4>
+			<br>
+			<p><i>Webapp interface for B-Tax</i></p>
+		</div>
+	</div>
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/C-TAM.jpg" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>C-TAM</b></h4>
+			<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/opioid.jpg" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Opioid Cost Model</b></h4>
+			<p><i>Estimates state-level and county-level economic burdens of the opioid crisis</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/ogusa.jpg" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>OG-USA</b></h4>
+			<p><i>Overlapping-generations model for evaluating fiscal policy in the US</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/pfl.png" style="height:35%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Paid Family Leave - Cost Model</b></h4>
+			<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/pci.jpg" style="height:35%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Policy Change Index</b></h4>
+			<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/psl" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Policy Simulation Library</b></h4>
+			<p><i>Open source software library for public-policy decisionmaking</i></p>
+		</div>
+	</div>
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
+		<img src ="/images/household.png" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Synthetic Household Data</b></h4>
+			<p><i>Creates synthetic individual income tax dataset</i></p>
+		</div>
+	</div>
+	<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/taxbrain.png" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Tax Brain</b></h4>
+			<p><i>Webapp interface for Tax-Calculator</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/taxcalc.jpg" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Tax-Calculator</b></h4>
+			<br>
+			<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/behresp.png" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Tax-Calculator: Behavioral-Responses</b></h4>
+			<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/taxdata.png" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Tax Data</b></h4>
+			<p><i>Prepares data files used in Tax-Calculator</i></p>
+		</div>
+	</div>
+		<div class ="portcard">
+		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+		<img src ="/images/taxes-investments-growth.jpg" style="height:30%; margin:10px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Taxes-Investment-Growth</b></h4>
+			<p><i>Analyzes the effect of business tax legislation on investment, GDP, and wages</i></p>
+		</div>
+	</div>
+</div>
+</article>
+</div>
+</main>
