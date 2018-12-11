@@ -8,27 +8,37 @@ layout: page
 .card{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 200px;
+	width: 21%;
 	height: 220px;
 	background:#fff;
 	text-align:center;
 	float:left;
 	margin: 20px 40px 20px 0px;
 }
-.cardlast{
+.cardsecond{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 200px;
+	width: 20%;
 	height: 220px;
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 200px 50px 0px;
+	margin: 20px 450px 50px 0px;
+}
+.cardthird{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 21%;
+	height: 220px;
+	background:#fff;
+	text-align:center;
+	float:left;
+	margin: 20px 280px 50px 0px;
 }
 .cardbottom{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 200px;
+	width: 20%;
 	height: 220px;
 	background:#fff;
 	text-align:center;
@@ -38,7 +48,7 @@ layout: page
 .portcard{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 320px;
+	width: 30%;
 	height: 250px;
 	background:#fff;
 	text-align:center;
@@ -48,21 +58,21 @@ layout: page
 .portcardlast{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 350px;
+	width: 30%;
 	height: 250px;
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 400px 50px 0px;
+	margin: 20px 0px 20px 10px;
 }
 </style>
 
-<center><img src="/images/OSPC_logo.png" alt="OSPC">
+<center><img src="/images/OSPC_logo.png" alt="OSPC" style="width:75%">
 <h1><b>Open Source Policy Center</b></h1>
 
 <br>
 
-<h1 style="color:gray">We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</h1>
+<h1 style="color:gray; margin-left:10%; margin-right:10%">We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</h1>
 
 
 <script src="//app-sj19.marketo.com/js/forms2/js/forms2.min.js"></script>
@@ -76,11 +86,10 @@ layout: page
         <article class="post">
 
 <center><img style="opacity:.5" src="/images/capitol.jpg"></center>
-
-<br>
-
 <section id="about"></section>
-
+<br>
+<br>
+<br>
 <h2 align="left">About</h2>
 
 <h1 align="left">Everything we incubate is open source</h1>
@@ -96,7 +105,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 
 <p align="left">Matt Jensen</p>
 <p align="left">Director</p>
-<img src="/images/jensen.jpg" width="200" align="left" style="margin:0px 550px 40px 0px">
+<img src="/images/jensen.jpg" width="20%" align="left" style="margin:0px 80% 40px 0px">
 
 <br>
 <br>
@@ -110,8 +119,10 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 
 <br>
 <center><img style="opacity:.5" src="/images/flag.jpg"></center>
-<br>
 <section id="community"></section>
+<br>
+<br>
+<br>
 <h2 align="left">Community</h2>
 
 <p align="left">The maintainance of this site and the rest of OSPC's organizational activity takes place on <a style="display:inline-block" href="https://github.com/PSLmodels">GitHub</a>.</p>
@@ -133,7 +144,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardlast">
+	<div class ="cardthird">
 		<img src ="/images/strain.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Michael Strain</b></h4>
@@ -141,7 +152,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		</div>
 	</div>
 
-<h1 style="margin:0px 100px 0px 0px; text-align:left"><b>OSPC Staff</b></h1>
+<h1 style="margin:0px 0px 0px 0px; text-align:left"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
 		<div class ="card">
@@ -159,28 +170,28 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardlast">
+	<div class ="card">
 		<img src ="/images/frailey.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Anderson Frailey</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/jensen.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Matt Jensen</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/metz.jpg" style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
 			<h4><b>Peter Metz</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardlast">
+	<div class ="cardsecond">
 		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
 		<img src ="/images/wang.jpg" style="height:40%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -207,7 +218,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Boyd Research LLC; Center for Policy Research</i></p>
 		</div>
 	</div>
-	<div class ="cardlast">
+	<div class ="card">
 		<img src ="/images/brill.jpg"  style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Alex Brill</b></h4>
@@ -228,7 +239,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>University of South Carolina</i></p>
 		</div>
 	</div>
-		<div class ="cardlast">
+		<div class ="card">
 		<img src ="/images/evans.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Richard Evans</b></h4>
@@ -249,7 +260,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Georgia Institute of Technology</i></p>
 		</div>
 	</div>
-	<div class ="cardlast">
+	<div class ="card">
 		<img src ="/images/ghenis.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Max Ghenis</b></h4>
@@ -270,28 +281,28 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Policy Simulation Group</i></p>
 		</div>
 	</div>
-		<div class ="cardlast">
+		<div class ="card">
 		<img src ="/images/kallen.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Cody Kallen</b></h4>
 			<p><i>University of Wisconsin - Madison</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/ohare.png" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>John O'Hare</b></h4>
 			<p><i>Quantria Strategies</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>University of Chicago</i></p>
 		</div>
 	</div>
-		<div class ="cardlast">
+		<div class ="card">
 		<img src ="/images/zhong.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
@@ -299,13 +310,13 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		</div>
 	</div>
 </div>
-</div>
-<br><br>
 
-
-<center><img style="opacity:.5" src="/images/monuments.jpg"></center>
 <br>
+<center><img style="opacity:.5" src="/images/monuments.jpg"></center>
 <section id="portfolio"></section>
+<br>
+<br>
+<br>
 <h2 align="left" style="margin:0px 0px 0px 0px width:2000px">Portolfio</h2>
 
 <div class ="wrap">
@@ -325,7 +336,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
 		</div>
 	</div>
-	<div class ="portcard">
+	<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/tax_form.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -350,7 +361,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
 		</div>
 	</div>
-		<div class ="portcard">
+		<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/opioid.jpg" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -374,7 +385,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 		</div>
 	</div>
-		<div class ="portcard">
+		<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/pci.jpg" style="height:35%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -398,7 +409,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Creates synthetic individual income tax dataset</i></p>
 		</div>
 	</div>
-	<div class ="portcard">
+	<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 		<img src ="/images/taxbrain.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -423,7 +434,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
 		</div>
 	</div>
-		<div class ="portcard">
+		<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 		<img src ="/images/taxdata.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
