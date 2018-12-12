@@ -3,7 +3,7 @@ layout: page
 ---
 <style>
 .wrap{
-	width: 1000px; 
+	width: 100%; 
 }
 .card{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
@@ -13,62 +13,43 @@ layout: page
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 40px 20px 0px;
-}
-.cardsecond{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
-	transition: 0.4s;
-	width: 20%;
-	height: 220px;
-	background:#fff;
-	text-align:center;
-	float:left;
-	margin: 20px 450px 50px 0px;
-}
-.cardthird{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
-	transition: 0.4s;
-	width: 21%;
-	height: 220px;
-	background:#fff;
-	text-align:center;
-	float:left;
-	margin: 20px 280px 50px 0px;
-	position:relative;
-}
-.cardbottom{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
-	transition: 0.4s;
-	width: 20%;
-	height: 220px;
-	background:#fff;
-	text-align:center;
-	float:left;
-	margin: 20px 40px 50px 0px;
+	margin-right:40px;
+	margin-bottom:50px;
 }
 .portcard{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 32%;
+	width: 320px;
 	height: 260px;
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 20px 20px 0px;
+	margin-right:40px;
+	margin-bottom:50px;
 }
-.portcardlast{
-	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
-	transition: 0.4s;
-	width: 32%;
-	height: 260px;
-	background:#fff;
-	text-align:center;
-	float:left;
-	margin: 20px 0px 20px 0px;
+@media screen and (max-width: 600px){
+	.card{
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+		transition: 0.4s;
+		background:#fff;
+		text-align:center;
+		width:200px;
+		display:block;
+		margin-right:500px;
+	}
+@media screen and (max-width: 600px){
+	.portcard{
+		box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+		transition: 0.4s;
+		background:#fff;
+		text-align:center;
+		width:320px;
+		display:block;
+		margin-right:200px;
+	}
 }
 </style>
-
-<center><img src="/images/OSPC_logo.png" alt="OSPC" style="width:75%">
+<center><img src="/images/OSPC_logo.png" alt="OSPC" style="max-width:700px; width:75%">
 <h1><b>Open Source Policy Center</b></h1>
 
 <br>
@@ -116,7 +97,6 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 <p id="C-TAM" style="text-align:left">[3] Adjusts and prepares welfare and transfer data for policy reform micro-simulation</p>
 <p id="OG-USA" style="text-align:left">[4] Overlapping generations model for evaluating fiscal policy in the US</p>
 <p id="PSL" style="text-align:left">[5] Open source software library for public policy decision-making</p>
-</div>
 
 <br>
 <center><img style="opacity:.5; width:100%" src="/images/flag.jpg"></center>
@@ -131,29 +111,29 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 <br>
 <h1 align="left"><b>Investment Committee</b></h1>
 <div class ="wrap">
-	<div class ="cardbottom">
+	<div class ="card">
 		<img src ="/images/brill.jpg"  style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Alex Brill</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardbottom">
+	<div class ="card">
 		<img src ="/images/jensen.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Matt Jensen</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardthird">
+	<div class ="card">
 		<img src ="/images/strain.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Michael Strain</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-
-<h1 style="margin:0px 0px 0px 0px; text-align:left"><b>OSPC Staff</b></h1>
+<p><br><br></p>
+<h1 style="text-align:left; margin-right:75%"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
 		<div class ="card">
@@ -192,7 +172,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</div>
-	<div class ="cardsecond">
+	<div class ="card">
 		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
 		<img src ="/images/wang.jpg" style="height:40%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -200,9 +180,17 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>New York University</i></p>
 		</div>
 	</div>
+	<div class ="card">
+		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
+		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<div class ="container">
+			<h4><b>Amy Xu</b></h4>
+			<p><i>University of Chicago</i></p>
+		</div>
+	</div>
 </div>
-
-<h1 style="margin:0px 100px 0px 0px; text-align:left"><b>OSPC Incubator</b></h1>
+<p><br><br></p>
+<h1 style="text-align:left;margin-right:75%"><b>OSPC Incubator</b></h1>
 
 <div class ="wrap">
 	<div class ="card">
@@ -289,21 +277,21 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>University of Wisconsin - Madison</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/ohare.png" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>John O'Hare</b></h4>
 			<p><i>Quantria Strategies</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>University of Chicago</i></p>
 		</div>
 	</div>
-		<div class ="cardbottom">
+		<div class ="card">
 		<img src ="/images/zhong.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
@@ -337,7 +325,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
 		</div>
 	</div>
-	<div class ="portcardlast">
+	<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/tax_form.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -361,7 +349,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
 		</div>
 	</div>
-		<div class ="portcardlast">
+		<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/opioid.jpg" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -385,7 +373,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 		</div>
 	</div>
-		<div class ="portcardlast">
+		<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 		<img src ="/images/pci.jpg" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -409,7 +397,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Creates synthetic individual income tax dataset</i></p>
 		</div>
 	</div>
-	<div class ="portcardlast">
+	<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 		<img src ="/images/taxbrain.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -434,7 +422,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
 		</div>
 	</div>
-		<div class ="portcardlast">
+		<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 		<img src ="/images/taxdata.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
@@ -452,6 +440,4 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		</div>
 	</div>
 </div>
-</article>
 </div>
-</main>
