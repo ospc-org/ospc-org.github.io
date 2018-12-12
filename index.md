@@ -288,21 +288,21 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 			<p><i>University of Wisconsin - Madison</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/ohare.png" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>John O'Hare</b></h4>
 			<p><i>Quantria Strategies</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>University of Chicago</i></p>
 		</div>
 	</div>
-		<div class ="card">
+		<div class ="cardbottom">
 		<img src ="/images/zhong.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
