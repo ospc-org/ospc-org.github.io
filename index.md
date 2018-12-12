@@ -133,7 +133,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		</div>
 	</div>
 <p><br><br></p>
-<h1 style="text-align:left; margin-right:75%"><b>OSPC Staff</b></h1>
+<h1 style="text-align:left; margin-right:65%"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
 		<div class ="card">
