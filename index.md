@@ -300,7 +300,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 	</div>
 </div>
 
-<center><img style="opacity:.5; width:100%" src="/images/monuments.jpeg"></center>
+<center><img style="opacity:.5; width:100%" src="/images/monuments.jpg"></center>
 
 <section id="portfolio"></section>
 <br>
