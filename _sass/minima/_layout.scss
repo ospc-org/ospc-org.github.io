@@ -15,12 +15,12 @@
   margin-bottom: 0;
   position: fixed;
   background-color: white;
-  width: 95%;
+  width: 100%;
   z-index: 9999;
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-  margin-left: 20px;
+  margin-left: 5px;
 
   &,
   &:visited {
@@ -37,8 +37,7 @@
   border-top: 5px solid $grey-color-dark;
   border-bottom: 1px solid $grey-color-light;
   min-height: 56px;
-  margin-bottom: 100px;
-  text-align: right;
+  white-space: nowrap;
 
   .menu-icon {
     display: none;
@@ -56,10 +55,10 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    top: 5px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 0px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -71,6 +70,8 @@
       line-height: 0;
       padding-top: 10px;
       text-align: center;
+      margin-right: 10%;
+      margin-top: 10px;
 
       > svg path {
         fill: $grey-color-dark;

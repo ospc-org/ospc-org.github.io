@@ -8,7 +8,7 @@ layout: page
 .card{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 21%;
+	width: 200px;
 	height: 220px;
 	background:#fff;
 	text-align:center;
@@ -34,6 +34,7 @@ layout: page
 	text-align:center;
 	float:left;
 	margin: 20px 280px 50px 0px;
+	position:relative;
 }
 .cardbottom{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
@@ -48,22 +49,22 @@ layout: page
 .portcard{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 30%;
-	height: 250px;
+	width: 32%;
+	height: 260px;
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 40px 20px 0px;
+	margin: 20px 20px 20px 0px;
 }
 .portcardlast{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 30%;
-	height: 250px;
+	width: 32%;
+	height: 260px;
 	background:#fff;
 	text-align:center;
 	float:left;
-	margin: 20px 0px 20px 10px;
+	margin: 20px 0px 20px 0px;
 }
 </style>
 
@@ -85,7 +86,7 @@ layout: page
 	<div class="wrapper">
         <article class="post">
 
-<center><img style="opacity:.5" src="/images/capitol.jpg"></center>
+<center><img style="opacity:.5; width:100%" src="/images/capitol.jpg"></center>
 <section id="about"></section>
 <br>
 <br>
@@ -118,7 +119,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 </div>
 
 <br>
-<center><img style="opacity:.5" src="/images/flag.jpg"></center>
+<center><img style="opacity:.5; width:100%" src="/images/flag.jpg"></center>
 <section id="community"></section>
 <br>
 <br>
@@ -311,13 +312,13 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 	</div>
 </div>
 
-<br>
-<center><img style="opacity:.5" src="/images/monuments.jpg"></center>
+<center><img style="opacity:.5; width:100%" src="/images/monuments.jpeg"></center>
+
 <section id="portfolio"></section>
 <br>
 <br>
 <br>
-<h2 align="left" style="margin:0px 0px 0px 0px width:2000px">Portolfio</h2>
+<h2 align="left">Portolfio</h2>
 
 <div class ="wrap">
 	<div class ="portcard">
@@ -349,7 +350,6 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		<img src ="/images/ccc.png"  style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Cost of Capital Calculator</b></h4>
-			<br>
 			<p><i>Webapp interface for B-Tax</i></p>
 		</div>
 	</div>
@@ -379,7 +379,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 	</div>
 		<div class ="portcard">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
-		<img src ="/images/pfl.png" style="height:35%; margin:10px 0px 15px 0px">
+		<img src ="/images/pfl.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Paid Family Leave - Cost Model</b></h4>
 			<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
@@ -387,7 +387,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 	</div>
 		<div class ="portcardlast">
 		<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
-		<img src ="/images/pci.jpg" style="height:35%; margin:10px 0px 15px 0px">
+		<img src ="/images/pci.jpg" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Policy Change Index</b></h4>
 			<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
@@ -439,6 +439,7 @@ Since 2013, the Open Source Policy Center has advanced informed policy by workin
 		<img src ="/images/taxdata.png" style="height:30%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Tax Data</b></h4>
+			<br>
 			<p><i>Prepares data files used in Tax-Calculator</i></p>
 		</div>
 	</div>
