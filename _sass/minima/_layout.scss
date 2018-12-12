@@ -2,9 +2,6 @@
  * Site header
  */
 .site-header {
-  border-top: 5px solid $grey-color-dark;
-  border-bottom: 1px solid $grey-color-light;
-  min-height: 56px;
 
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -16,7 +13,14 @@
   line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
-  float: left;
+  position: fixed;
+  background-color: white;
+  width: 100%;
+  z-index: 9999;
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 56px;
+  margin-left: 5px;
 
   &,
   &:visited {
@@ -25,8 +29,15 @@
 }
 
 .site-nav {
-  float: right;
+  left: 60%;
   line-height: 56px;
+  position: fixed;
+  background-color: white;
+  z-index: 9999;
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 56px;
+  white-space: nowrap;
 
   .menu-icon {
     display: none;
@@ -44,10 +55,10 @@
 
   @include media-query($on-palm) {
     position: absolute;
-    top: 9px;
+    top: 5px;
     right: $spacing-unit / 2;
     background-color: $background-color;
-    border: 1px solid $grey-color-light;
+    border: 0px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
 
@@ -59,6 +70,8 @@
       line-height: 0;
       padding-top: 10px;
       text-align: center;
+      margin-right: 10%;
+      margin-top: 10px;
 
       > svg path {
         fill: $grey-color-dark;
@@ -162,6 +175,7 @@
 /**
  * Page content
  */
+
 .page-content {
   padding: $spacing-unit 0;
 }
