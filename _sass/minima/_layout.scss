@@ -213,6 +213,21 @@
 .post-header {
   margin-bottom: $spacing-unit;
 }
+.background{
+  margin:0;
+  padding:0;
+}
+.gray{
+  background-color: #f2f2f2;
+}
+.blue{
+  background-color: #B7C0D8;
+  margin: 0;
+  height:100%;
+  width: 100;
+  min-width: 100%;
+  min-height: 100%;
+}
 
 .post-title {
   font-size: 42px;
