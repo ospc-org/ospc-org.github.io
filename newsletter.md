@@ -12,9 +12,10 @@ order: 4
 <p><a href="https://peter-metz.github.io/newsletter11.15.2018/">November 15, 2018 Newsletter</a></p>
 
 <p><a href="https://peter-metz.github.io/newsletter11.02.2018/">November 02, 2018 Newsletter</a></p>
+<p style="position:absolute;padding:8px">Sign Up For Our Newsletter</p><button style="width: 215px; height:40px;cursor: pointer; font-weight: bold; border-radius: 10px; border: 1px solid #999; font-size: 100%; position:absolute; opacity:.5;" type="submit" name="button" value="signup" onclick="location.href='https://peter-metz.github.io/signup/'">
+</button>
 
-<form>
-	<input style="width: 240px; padding: 10px; cursor: pointer; font-weight: bold; color: #fff; border-radius: 10px; border: 1px solid #999; font-size: 100%;" type="button" value="Sign Up For Our Newsletter" onclick="window.location.href='/signup/'"
-	/>
-</form>
+
+
+
 
