@@ -39,22 +39,6 @@ order: 3
 
 <div class ="wrap">
 		<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
-			<img src ="/images/bac.jpg"  style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>Border Adjustment Calculator</b></h4>
-				<p><i>Simulates the affect of a border adjustment on a respresentative firm</i></p>
-			</div>
-		</div>
-		<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
-			<img src ="/images/btax.jpg"  style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>B-Tax</b></h4>
-				<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
-			</div>
-		</div>
-		<div class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/tax_form.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
@@ -62,23 +46,7 @@ order: 3
 				<p><i>Evaluates tax reform with changes to both corporate and individual income tax policy</i></p>
 			</div>
 		</div>
-			<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
-			<img src ="/images/ccc.png"  style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>Cost of Capital Calculator</b></h4>
-				<p><i>Webapp interface for B-Tax</i></p>
-			</div>
-		</div>
 		<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
-			<img src ="/images/C-TAM.jpg" style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>C-TAM</b></h4>
-				<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
-			</div>
-		</div>
-			<div class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/opioid.jpg" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
@@ -86,23 +54,7 @@ order: 3
 				<p><i>Estimates state-level and county-level economic burdens of the opioid crisis</i></p>
 			</div>
 		</div>
-			<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
-			<img src ="/images/ogusa.jpg" style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>OG-USA</b></h4>
-				<p><i>Overlapping-generations model for evaluating fiscal policy in the US</i></p>
-			</div>
-		</div>
-			<div class ="portcard">
-			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
-			<img src ="/images/pfl.png" style="height:30%; margin:10px 0px 15px 0px">
-			<div class ="container">
-				<h4><b>Paid Family Leave - Cost Model</b></h4>
-				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
-			</div>
-		</div>
-			<div class ="portcard">
+		<div class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/pci.jpg" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
@@ -124,6 +76,54 @@ order: 3
 			<div class ="container">
 				<h4><b>Synthetic Household Data</b></h4>
 				<p><i>Creates synthetic individual income tax dataset</i></p>
+			</div>
+		</div>
+		<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/bac.jpg"  style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>Border Adjustment Calculator</b></h4>
+				<p><i>Simulates the affect of a border adjustment on a respresentative firm</i></p>
+			</div>
+		</div>
+		<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/btax.jpg"  style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>B-Tax</b></h4>
+				<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
+			</div>
+		</div>
+			<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/ccc.png"  style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>Cost of Capital Calculator</b></h4>
+				<p><i>Webapp interface for B-Tax</i></p>
+			</div>
+		</div>
+		<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/C-TAM.jpg" style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>C-TAM</b></h4>
+				<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
+			</div>
+		</div>
+			<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/ogusa.jpg" style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>OG-USA</b></h4>
+				<p><i>Overlapping-generations model for evaluating fiscal policy in the US</i></p>
+			</div>
+		</div>
+			<div class ="portcard">
+			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
+			<img src ="/images/pfl.png" style="height:30%; margin:10px 0px 15px 0px">
+			<div class ="container">
+				<h4><b>Paid Family Leave - Cost Model</b></h4>
+				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 			</div>
 		</div>
 		<div class ="portcard">

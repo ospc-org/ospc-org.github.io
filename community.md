@@ -61,14 +61,6 @@ order: 2
 <h1 style="text-align:left; margin-right:65%"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
-		<div class ="card">
-		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
-		<img src ="/images/brown.jpg"  style="height:40%; margin:10px 0px 10px 0px">
-		<div class ="container">
-			<h4><b>Edward Brown</b></h4>
-			<p><i>Bureau of Labor Statistics</i></p>
-		</div>
-	</div>
 	<div class ="card">
 		<img src ="/images/doupe.jpg"  style="height:40%; margin:30px 0px 10px 0px">
 		<div class ="container">
@@ -95,6 +87,14 @@ order: 2
 		<div class ="container">
 			<h4><b>Peter Metz</b></h4>
 			<p><i>American Enterprise Institute</i></p>
+		</div>
+	</div>
+	<div class ="card">
+		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
+		<img src ="/images/brown.jpg"  style="height:40%; margin:10px 0px 10px 0px">
+		<div class ="container">
+			<h4><b>Edward Brown</b></h4>
+			<p><i>Bureau of Labor Statistics</i></p>
 		</div>
 	</div>
 	<div class ="card">
@@ -176,7 +176,7 @@ order: 2
 		<img src ="/images/ghenis.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Max Ghenis</b></h4>
-			<p><i>YouTube</i></p>
+			<p><i>Independent Consultant</i></p>
 		</div>
 	</div>
 		<div class ="card">
