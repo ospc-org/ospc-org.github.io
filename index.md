@@ -41,9 +41,5 @@ The projects in our <a style="display:inline-block" href="/portfolio/">portfolio
 <p style="text-align:left">Matt Jensen </p>
 <p align="left">Director</p>
 <img src="/images/jensen_oval.png" width="100px" style="float:left">
-</center>
-</div>
 </article>
-</main>
-</center>
 
