@@ -107,7 +107,7 @@ order: 2
 	</div>
 	<div class ="card">
 		<p style="margin:0px 0px 0px 140px; color:gray; background-color:#E8E8E8; border:1px; border-style:solid; border-color:gray; font-size:12px"><i>Alumnus</i></p>
-		<img src ="/images/xu.jpg" style="height:40%; margin:20px 0px 15px 0px">
+		<img src ="/images/xu.jpg" style="height:40%; margin:10px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>University of Chicago</i></p>

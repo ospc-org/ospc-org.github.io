@@ -139,7 +139,6 @@ order: 3
 			<img src ="/images/taxcalc.jpg" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
 				<h4><b>Tax-Calculator</b></h4>
-				<br>
 				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
 			</div>
 		</div>
@@ -156,7 +155,6 @@ order: 3
 			<img src ="/images/taxdata.png" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
 				<h4><b>Tax Data</b></h4>
-				<br>
 				<p><i>Prepares data files used in Tax-Calculator</i></p>
 			</div>
 		</div>
