@@ -20,7 +20,7 @@ layout: page
 	<div class="wrapper">
         <article class="post">
 
-<img style="opacity:.75; width:100%" src="/images/monuments.jpg">
+<img style="opacity:.75; width:100%" src="/images/sunrise.jpg">
 <section id="about"></section>
 <br>
 <br>
