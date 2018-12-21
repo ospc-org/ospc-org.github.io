@@ -31,7 +31,7 @@ layout: page
 
 <p style="text-align:justify">The Open Source Policy Center is built on the principal that better public policy analysis leads to better public policy. Since 2013, OSPC has incubated open source projects, including models and webapps, for predicting the outcomes of public policy. We identify tools that have the potential to fundamentally improve policymaking, and we help tool builders create open source projects that are professional, user oriented, and welcoming to outside technical contributors.</p>
 <div style="text-align:justify">
-The projects in our <a style="display:inline-block" href="/portfolio/">portfolio</a> have supported staffers from Democratic and Republican Administrations and campaigns, committees and subcommittees in Congress, Congressional leadership offices, and rank and file member offices, as well as national newspapers, and dozens of university classes.
+Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
 </div>
 <br>
 <p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
