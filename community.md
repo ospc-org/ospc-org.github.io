@@ -34,32 +34,7 @@ order: 2
 </style>
 
 <br>
-<h1><b>Investment Committee</b></h1>
-<div class ="wrap">
-	<div class ="card">
-		<img src ="/images/brill.jpg"  style="height:40%; margin:20px 0px 15px 0px">
-		<div class ="container">
-			<h4><b>Alex Brill</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</div>
-	<div class ="card">
-		<img src ="/images/jensen.jpg" style="height:40%; margin:20px 0px 15px 0px">
-		<div class ="container">
-			<h4><b>Matt Jensen</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</div>
-	<div class ="card">
-		<img src ="/images/strain.jpg" style="height:40%; margin:20px 0px 15px 0px">
-		<div class ="container">
-			<h4><b>Michael Strain</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</div>
-
-<h1 style="text-align:left; margin-right:65%"><b>OSPC Staff</b></h1>
-
+<h1><b>OSPC Staff</b></h1>
 <div class ="wrap">
 	<div class ="card">
 		<img src ="/images/doupe.jpg"  style="height:40%; margin:30px 0px 10px 0px">
@@ -113,7 +88,6 @@ order: 2
 			<p><i>University of Chicago</i></p>
 		</div>
 	</div>
-</div>
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:75%"><b>OSPC Incubator</b></h1>
 	<div class ="card">
