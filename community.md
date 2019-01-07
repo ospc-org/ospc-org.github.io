@@ -89,7 +89,7 @@ order: 2
 		</div>
 	</div>
 <p><br><br></p>
-<h1 style="text-align:left;margin-right:75%"><b>OSPC Incubator</b></h1>
+<h1 style="text-align:left;margin-right:85%"><b>OSPC Incubator</b></h1>
 	<div class ="card">
 		<img src ="/images/alumbaugh.jpg"  style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
