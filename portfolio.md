@@ -31,6 +31,10 @@ order: 3
 	}
 }
 
+a.portcard {
+	color: black;
+	text-decoration: none;
+}
 a.portcard:hover {
 	color: black;
 	text-decoration: none;
