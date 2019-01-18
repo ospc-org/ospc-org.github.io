@@ -29,7 +29,7 @@ layout: page
 
 <h4 align="left"><b>Everything we incubate is open source</b></h4>
 
-<p style="text-align:justify">The Open Source Policy Center is built on the principal that better public policy analysis leads to better public policy. Since 2013, OSPC has incubated open source projects, including models and webapps, for predicting the outcomes of public policy. We identify tools that have the potential to fundamentally improve policymaking, and we help tool builders create open source projects that are professional, user oriented, and welcoming to outside technical contributors.</p>
+<p style="text-align:justify">Hosted at the American Enterprise Institute, the Open Source Policy Center is built on the principal that better public policy analysis leads to better public policy. Since 2013, OSPC has incubated open source projects, including models and webapps, for predicting the outcomes of public policy. We identify tools that have the potential to fundamentally improve policymaking, and we help tool builders create open source projects that are professional, user oriented, and welcoming to outside technical contributors.</p>
 <div style="text-align:justify">
 Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
 </div>

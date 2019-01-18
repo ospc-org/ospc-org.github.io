@@ -107,6 +107,7 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  text-align: center;
 }
 
 .footer-heading {
@@ -134,8 +135,7 @@
 }
 
 .footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: 100%;
 }
 
 .footer-col-2 {
