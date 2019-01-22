@@ -1,7 +1,6 @@
 ---
-
-title: Community
-permalink: /community/
+title: Team
+permalink: /team/
 layout: page
 order: 2
 ---
