@@ -33,7 +33,7 @@ layout: default
   // If the user is trying to access an archived run, then they may have a link
   // to wwww.ospc.org/{extension}/{runnumber}/. If the extension matches any
   // of the below extensions, then they will be redirected to
-  // apps_domain/{extension}/query
+  // apps_domain/{extension}/query.
   var extentions = [
     "taxbrain",
     "ccc",
@@ -44,10 +44,11 @@ layout: default
     "dynamic/macro_results",
   ];
 
-  // check if the url starts with https://www.ospc.org/{ext}
-  // redirect if there is a match.
+  // Check if the url starts with https://www.ospc.org/{ext}
+  // Redirect if there is a match.
   if (extentions.some(ext => url.startsWith(cur_domain + ext))) {
-    // grap the part of the url that comes after cur_domain
+    // Grab the part of the url that comes after cur_domain.
+    // This part would contains the run number and/or GET parameters.
     var spl = url.split(cur_domain);
     var archived_url = apps_domain + spl[1];
     window.location.replace(archived_url);
