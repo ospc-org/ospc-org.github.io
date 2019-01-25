@@ -25,7 +25,9 @@ layout: default
 
 <script>
   var url = location.href;
+  // Needs to be changed to the ospc.org subdomain once that is setup.
   var apps_domain = "https://ospc-apps.herokuapp.com/";
+  // cur_domain will be https://www.ospc.org in production.
   var cur_domain = "https" + location.hostname;
 
   // If the user is trying to access an archived run, then they may have a link
@@ -45,9 +47,9 @@ layout: default
   // check if the url starts with https://www.ospc.org/{ext}
   // redirect if there is a match.
   if (extentions.some(ext => url.startsWith(cur_domain + ext))) {
+    // grap the part of the url that comes after cur_domain
     var spl = url.split(cur_domain);
     var archived_url = apps_domain + spl[1];
-    // redirect to the archived run at archived_url.
     window.location.replace(archived_url);
   }
 </script>
