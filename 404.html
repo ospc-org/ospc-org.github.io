@@ -48,7 +48,7 @@ layout: default
   // Redirect if there is a match.
   if (extentions.some(ext => url.startsWith(cur_domain + ext))) {
     // Grab the part of the url that comes after cur_domain.
-    // This part would contains the run number and/or GET parameters.
+    // This part would contain the run number and/or GET parameters.
     var spl = url.split(cur_domain);
     var archived_url = apps_domain + spl[1];
     window.location.replace(archived_url);
