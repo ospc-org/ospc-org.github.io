@@ -24,7 +24,6 @@ layout: default
 </div>
 
 <script>
-  console.log("HEYYOOOO");
   var url = location.href;
   var apps_domain = "https://apps.ospc.org/";
   // cur_domain will be https://www.ospc.org in production.
@@ -33,8 +32,6 @@ layout: default
   // to wwww.ospc.org/{extension}/{runnumber}/. If the extension matches any
   // of the below extensions, then they will be redirected to
   // apps_domain/{extension}/query.
-  console.log("apps_domain: " + apps_domain);
-  console.log("cur_domain: " + cur_domain);
   var extentions = [
     "taxbrain",
     "ccc",
