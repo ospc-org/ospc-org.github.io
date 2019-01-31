@@ -50,6 +50,7 @@ layout: default
     // This part would contain the run number and/or GET parameters.
     var spl = url.split(cur_domain);
     var archived_url = apps_domain + spl[1];
+    console.log("redirecting to: ", archived_url);
     window.location.replace(archived_url);
   }
 </script>
