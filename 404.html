@@ -27,8 +27,7 @@ layout: default
   var url = location.href;
   var apps_domain = "https://apps.ospc.org/";
   // cur_domain will be https://www.ospc.org in production.
-  var cur_domain = "https" + location.hostname;
-
+  var cur_domain = "https://" + location.hostname + "/";
   // If the user is trying to access an archived run, then they may have a link
   // to wwww.ospc.org/{extension}/{runnumber}/. If the extension matches any
   // of the below extensions, then they will be redirected to
