@@ -191,7 +191,7 @@ a.teamcard:visited {
 		<img src ="/images/ohare.png" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>John O'Hare</b></h4>
-			<p><i>TaxData</i></p>
+			<p><i>Tax Data</i></p>
 		</div>
 	</div>
 		<a href="https://github.com/GoFroggyRun" class ="teamcard">
