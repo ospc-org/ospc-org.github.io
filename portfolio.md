@@ -55,7 +55,7 @@ a.portcard:visited {
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/tax_form.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
-				<h4><b>Business Tax Revenue Calculator</b></h4>
+				<h4><b>Business-Taxation</b></h4>
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
@@ -71,7 +71,7 @@ a.portcard:visited {
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/pci.jpg" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
-				<h4><b>Policy Change Index</b></h4>
+				<h4><b>Policy Change Index - China</b></h4>
 				<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
 			</div>
 		</a>
@@ -103,7 +103,7 @@ a.portcard:visited {
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 			<img src ="/images/btax.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
-				<h4><b>B-Tax</b></h4>
+				<h4><b>Cost-of-Capital-Calculator</b></h4>
 				<p><i>Evaluates the effect of US federal taxes on businesses' investment incentives</i></p>
 			</div>
 		</a>
@@ -111,8 +111,8 @@ a.portcard:visited {
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 			<img src ="/images/ccc.png"  style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
-				<h4><b>Cost of Capital Calculator</b></h4>
-				<p><i>Webapp interface for B-Tax</i></p>
+				<h4><b>Cost-of-Capital-Calculator Webapp</b></h4>
+				<p><i>Webapp interface for Cost-of-Capital-Calculator</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/PSLmodels/C-TAM" class ="portcard">
@@ -139,7 +139,7 @@ a.portcard:visited {
 				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 			</div>
 		</a>
-		<a href="https://www.ospc.org/taxbrain/" class ="portcard">
+		<a href="https://www.compmodels.com/PSLmodels/Tax-Brain/" class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 			<img src ="/images/taxbrain.png" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">

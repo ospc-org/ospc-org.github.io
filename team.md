@@ -128,14 +128,14 @@ a.teamcard:visited {
 		<img src ="/images/chan.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>TszKin Julian Chan</b></h4>
-			<p><i>Policy Change Index</i></p>
+			<p><i>Policy Change Index - China</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/jdebacker" class ="teamcard">
 		<img src ="/images/debacker.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Jason DeBacker</b></h4>
-			<p><i>B-Tax; OG-USA</i></p>
+			<p><i>Cost-of-Capital-Calculator; OG-USA</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/rickecon" class ="teamcard">
@@ -184,7 +184,7 @@ a.teamcard:visited {
 		<img src ="/images/kallen.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Cody Kallen</b></h4>
-			<p><i>Business Tax Revenue Calculator</i></p>
+			<p><i>Business-Taxation</i></p>
 		</div>
 	</a>
 		<div class ="teamcard">
@@ -212,7 +212,7 @@ a.teamcard:visited {
 		<img src ="/images/zhong.jpg" style="height:40%; margin:20px 0px 15px 0px">
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
-			<p><i>Policy Change Index</i></p>
+			<p><i>Policy Change Index - China</i></p>
 		</div>
 	</a>
 </div>
