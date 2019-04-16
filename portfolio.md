@@ -96,7 +96,7 @@ a.portcard:visited {
 			<img src ="/images/bac.jpg"  style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
 				<h4><b>Border Adjustment Calculator</b></h4>
-				<p><i>Simulates the affect of a border adjustment on a respresentative firm</i></p>
+				<p><i>Simulates the effect of a border adjustment on a representative firm</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/PSLmodels/B-Tax" class ="portcard">
