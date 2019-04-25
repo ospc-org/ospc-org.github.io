@@ -139,7 +139,7 @@ a.portcard:visited {
 				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 			</div>
 		</a>
-		<a href="https://www.compmodels.com/PSLmodels/Tax-Brain/" class ="portcard">
+		<a href="https://www.compmodels.org/PSLmodels/Tax-Brain/" class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#82D686; border:1px; border-style:solid; border-color:gray"><i>Graduate</i></p>
 			<img src ="/images/taxbrain.png" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
