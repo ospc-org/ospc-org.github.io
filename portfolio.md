@@ -59,14 +59,14 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
-		<div class ="portcard">
+		<a href="https://github.com/derrickchoe/opioid_costs" class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/opioid.jpg" style="height:30%; margin:10px 0px 15px 0px">
 			<div class ="container">
 				<h4><b>Opioid Cost Model</b></h4>
 				<p><i>Estimates state-level and county-level economic burdens of the opioid crisis</i></p>
 			</div>
-		</div>
+		</a>
 		<a href="https://github.com/PSLmodels/PCI" class ="portcard">
 			<p style="margin:0px 0px 0px 230px; color:white; background-color:#FDA037; border:1px; border-style:solid; border-color:gray"><i>Incubating</i></p>
 			<img src ="/images/pci.jpg" style="height:30%; margin:10px 0px 15px 0px">
