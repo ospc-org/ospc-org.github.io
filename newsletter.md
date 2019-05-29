@@ -6,6 +6,8 @@ order: 4
 ---
 
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
+<p><a href="/newsletter05292019/">May 29, 2019 Newsletter</a></p>
+
 <p><a href="/newsletter05152019/">May 15, 2019 Newsletter</a></p>
 
 <p><a href="/newsletter05012019/">May 1, 2019 Newsletter</a></p>
