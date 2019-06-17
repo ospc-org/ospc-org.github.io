@@ -149,7 +149,7 @@ a.portcard:visited {
 			<img src ="/images/taxbrain.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Brain</b></h4>
-				<p><i>Webapp interface for Tax-Calculator</i></p>
+				<p><i>Integrator package and webapp for open source tax models</i></p>
 			</div>
 		</a>
 			<a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
