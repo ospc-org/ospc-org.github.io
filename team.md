@@ -199,13 +199,13 @@ a.teamcard:visited {
 			<p><i>Tax Data</i></p>
 		</div>
 	</div>
-	<div class ="teamcard">
+	<a href="https://github.com/kerkphil" class ="teamcard">
 		<img src ="/images/phillips.jpeg" class="picture">
 		<div class ="container">
 			<h4><b>Kerk Phillips</b></h4>
 			<p><i>OG-USA</i></p>
 		</div>
-	</div>
+	</a>
 		<a href="https://github.com/GoFroggyRun" class ="teamcard">
 		<img src ="/images/wang.jpg" class="picture">
 		<div class ="container">
