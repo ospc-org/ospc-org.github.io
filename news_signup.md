@@ -6,6 +6,8 @@ exclude: true
 ---
 
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
+<p><a href="/newsletter06262019/">June 26, 2019 Newsletter</a></p>
+
 <p><a href="/newsletter06122019/">June 12, 2019 Newsletter</a></p>
 
 <p><a href="/newsletter05292019/">May 29, 2019 Newsletter</a></p>
