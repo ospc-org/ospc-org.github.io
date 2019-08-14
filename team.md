@@ -54,20 +54,6 @@ a.teamcard:visited {
 <br>
 <h1><b>OSPC Staff</b></h1>
 <div class ="wrap">
-	<a href="https://github.com/hdoupe" class ="teamcard">
-		<img src ="/images/doupe.jpg"  class="picture">
-		<div class ="container">
-			<h4><b>Hank Doupe</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</a>
-	<a href="https://github.com/andersonfrailey" class ="teamcard">
-		<img src ="/images/frailey.jpg" class="picture">
-		<div class ="container">
-			<h4><b>Anderson Frailey</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</a>
 		<a href="https://github.com/MattHJensen" class ="teamcard">
 		<img src ="/images/jensen.jpg" class="picture">
 		<div class ="container">
@@ -90,6 +76,22 @@ a.teamcard:visited {
 			<p><i>Bureau of Labor Statistics</i></p>
 		</div>
 	</div>
+	<a href="https://github.com/hdoupe" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/doupe.jpg"  class="alum-pic">
+		<div class ="container">
+			<h4><b>Hank Doupe</b></h4>
+			<p><i>Compute Tooling</i></p>
+		</div>
+	</a>
+	<a href="https://github.com/andersonfrailey" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/frailey.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Anderson Frailey</b></h4>
+			<p><i>University of Virginia</i></p>
+		</div>
+	</a>
 	<a href="https://github.com/GoFroggyRun" class ="teamcard">
 		<p class="alumnus"><i>Alumnus</i></p>
 		<img src ="/images/wang.jpg" class="alum-pic">
