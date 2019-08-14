@@ -1,3 +1,1 @@
-The new ospc.org in development.
-
-Built with Jekyll, hosted on GitHub Pages.
+Source code for [ospc.org](https://www.ospc.org/)
