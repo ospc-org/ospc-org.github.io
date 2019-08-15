@@ -17,9 +17,10 @@ title: Open Source Policy Center
 email: ospc@aei.org
 description: The Open Source Policy Center incubates open source models and shares new tools, events, and resources for simulating policy outcomes. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ospc.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.ospc.org/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OSPCatAEI 
 github_username: PSLmodels
+title_image: https://www.ospc.org/images/OSPC_logo.jpeg
 
 # Build settings
 markdown: kramdown
