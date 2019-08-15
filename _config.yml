@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: https://www.ospc.org/ # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: OSPCatAEI 
 github_username: PSLmodels
-title_image: https://www.ospc.org/images/OSPC_logo.jpeg
+title_image: https://www.ospc.org/images/logo_small.png
 
 # Build settings
 markdown: kramdown
