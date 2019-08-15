@@ -5,13 +5,16 @@ layout: page
 order: 4
 ---
 <style>
-	.column {
-		float: left;
-		margin-top: 20px;
+	@media(min-width: 900px){
+		.column {
+			float: left;
+			margin-top: 20px;
+		}
+		.buffer {
+			margin-right: 200px;
+		}		
 	}
-	.buffer {
-		margin-right: 200px;
-	}
+
 </style>
 *This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.*
 
@@ -39,9 +42,9 @@ order: 4
 		<p><a href="/newsletter11022018/">November 02, 2018 Newsletter</a></p>
 	</div>
 	<div class="column">
-		<script style="margin-left:-50px; margin-top: -30px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
-		<form style="margin-left:-50px; margin-top: -30px" id="mktoForm_1256"></form>
-		<script style="margin-left:-50px; margin-top: -30px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+		<script style="margin-top: -30px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+		<form style="margin-top: -30px" id="mktoForm_1256"></form>
+		<script style="margin-top: -30px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
 	</div>
 </div>		
 
