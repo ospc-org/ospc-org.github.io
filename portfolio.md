@@ -64,30 +64,6 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
-		<a href="https://github.com/derrickchoe/opioid_costs" class ="portcard">
-			<p class = "cardtext incubating"><i>Incubating</i></p>
-			<img src ="/images/opioid.jpg" class="thumbnail">
-			<div class ="container">
-				<h4><b>Opioid Cost Model</b></h4>
-				<p><i>Estimates state-level and county-level economic burdens of the opioid crisis</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/PSLmodels/PCI" class ="portcard">
-			<p class = "cardtext incubating"><i>Incubating</i></p>
-			<img src ="/images/pci.jpg" class="thumbnail">
-			<div class ="container">
-				<h4><b>Policy Change Index - China</b></h4>
-				<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
-			</div>
-		</a>
-			<a href="https://www.pslmodels.org" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src ="/images/psl" class="thumbnail">
-			<div class ="container">
-				<h4><b>Policy Simulation Library</b></h4>
-				<p><i>Open source software library for public-policy decisionmaking</i></p>
-			</div>
-		</a>
 		<a href="https://github.com/donboyd5/synpuf" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src ="/images/household.png" class="thumbnail">
@@ -144,12 +120,36 @@ a.portcard:visited {
 				<p><i>Overlapping-generations model for evaluating fiscal policy in the US</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/derrickchoe/opioid_costs" class ="portcard">
+			<p class = "cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/opioid.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>Opioid Cost Model</b></h4>
+				<p><i>Estimates state-level and county-level economic burdens of the opioid crisis</i></p>
+			</div>
+		</a>
 			<a href="https://github.com/PSLmodels/PFL-CM" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/pfl.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>Paid Family Leave - Cost Model</b></h4>
 				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
+			</div>
+		</a>
+		<a href="https://github.com/PSLmodels/PCI" class ="portcard">
+			<p class = "cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/pci.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>Policy Change Index - China</b></h4>
+				<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
+			</div>
+		</a>
+		<a href="https://www.pslmodels.org" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/psl" class="thumbnail">
+			<div class ="container">
+				<h4><b>Policy Simulation Library</b></h4>
+				<p><i>Open source software library for public-policy decisionmaking</i></p>
 			</div>
 		</a>
 		<a href="https://www.compmodels.org/PSLmodels/Tax-Brain/" class ="portcard">
