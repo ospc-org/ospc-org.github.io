@@ -145,6 +145,13 @@ a.teamcard:visited {
 			<p><i>Cost-of-Capital-Calculator; OG-USA</i></p>
 		</div>
 	</a>
+	<a href="https://github.com/hdoupe" class ="teamcard">
+		<img src ="/images/doupe.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Hank Doupe</b></h4>
+			<p><i>PSL-Infrastructure; Tax-Brain</i></p>
+		</div>
+	</a>
 		<a href="https://github.com/rickecon" class ="teamcard">
 		<img src ="/images/evans.jpg" class="picture">
 		<div class ="container">
@@ -157,6 +164,13 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Daniel Feenberg</b></h4>
 			<p><i>Tax-Calculator; Tax-Brain</i></p>
+		</div>
+	</a>
+	<a href="https://github.com/andersonfrailey" class ="teamcard">
+		<img src ="/images/frailey.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Anderson Frailey</b></h4>
+			<p><i>PSL-Infrastructure; Tax-Brain; Tax Data</i></p>
 		</div>
 	</a>
 	<div class ="teamcard">
