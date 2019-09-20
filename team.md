@@ -149,7 +149,7 @@ a.teamcard:visited {
 		<img src ="/images/doupe.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Hank Doupe</b></h4>
-			<p><i>PSL-Infrastructure; Tax-Brain</i></p>
+			<p><i>ParamTools; PSL-Infrastructure; Tax-Brain</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/rickecon" class ="teamcard">
