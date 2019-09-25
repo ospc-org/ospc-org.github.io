@@ -20,6 +20,7 @@ order: 4
 
 <div class="row">
 	<div class="column buffer">
+		<p><a href="/newsletter09252019/">September 25, 2019 Newsletter</a></p>
 		<p><a href="/newsletter09112019/">September 11, 2019 Newsletter</a></p>
 		<p><a href="/newsletter08282019/">August 28, 2019 Newsletter</a></p>
 		<p><a href="/newsletter08142019/">August 14, 2019 Newsletter</a></p>
