@@ -58,7 +58,7 @@ a.portcard:visited {
 <div class ="wrap">
 		<a href="https://github.com/PSLmodels/BRC" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/building.png"  class="thumbnail">
+			<img src="/images/tax_form.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Business-Taxation</b></h4>
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
@@ -82,7 +82,7 @@ a.portcard:visited {
 		</a>
 		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src ="/images/tax_form.jpg" class="thumbnail">
+			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher</b></h4>
 				<p><i>Calculates individual federal tax liabilities under customizable policy scenarios</i></p>
