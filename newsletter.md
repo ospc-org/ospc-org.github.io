@@ -20,6 +20,7 @@ order: 4
 
 <div class="row">
 	<div class="column buffer">
+		<p><a href="/newsletter05062020/">May 6, 2020 Newsletter</a></p>
 		<p><a href="/newsletter04222020/">April 22, 2020 Newsletter</a></p>
 		<p><a href="/newsletter04082020/">April 8, 2020 Newsletter</a></p>		
 		<p><a href="/newsletter03252020/">March 25, 2020 Newsletter: COVID-19 special edition</a></p>
