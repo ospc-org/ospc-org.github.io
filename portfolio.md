@@ -56,20 +56,20 @@ a.portcard:visited {
         <article class="post">
 
 <div class ="wrap">
+		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<!-- <img src="/images/tax_form.jpg"  class="thumbnail"> -->
+			<div class ="container">
+				<h4><b>Synth-Impute</b></h4>
+				<p><i>Library for data synthesis and imputation using parametric and nonparametric methods</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/PSLmodels/BRC" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src="/images/tax_form.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Business-Taxation</b></h4>
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/PSLmodels/ParamTools" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/gears.png"  class="thumbnail">
-			<div class ="container">
-				<h4><b>ParamTools</b></h4>
-				<p><i>Library for parameter processing and validation</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/donboyd5/synpuf" class ="portcard">
@@ -80,8 +80,16 @@ a.portcard:visited {
 				<p><i>Creates synthetic individual income tax dataset</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/PSLmodels/ParamTools" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/gears.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>ParamTools</b></h4>
+				<p><i>Library for parameter processing and validation</i></p>
+			</div>
+		</a>
 		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
+			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher</b></h4>
