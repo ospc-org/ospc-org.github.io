@@ -176,20 +176,20 @@ a.portcard:visited {
 				<p><i>Integrator package and webapp for open source tax models</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/taxcalc.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>Tax-Calculator</b></h4>
+				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
+			</div>
+		</a>
 			<a href="https://github.com/PSLmodels/Behavioral-Responses" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/behresp.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Calculator: Behavioral-Responses</b></h4>
 				<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
-			</div>
-		</a>
-			<a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
-			<p class="cardtext graduate"><i>Graduate</i></p>
-			<img src ="/images/taxcalc.jpg" class="thumbnail">
-			<div class ="container">
-				<h4><b>Tax-Calculator</b></h4>
-				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
 			</div>
 		</a>
 			<a href="https://github.com/PSLmodels/taxdata" class ="portcard">
