@@ -80,14 +80,6 @@ a.portcard:visited {
 				<p><i>Creates synthetic individual income tax dataset</i></p>
 			</div>
 		</a>
-		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
-			<p class="cardtext graduate"><i>Graduate</i></p>
-			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
-			<div class ="container">
-				<h4><b>Tax-Cruncher</b></h4>
-				<p><i>Calculates individual federal tax liabilities under customizable policy scenarios</i></p>
-			</div>
-		</a>
 		<a href="https://ospc.shinyapps.io/border-adjustment-calculator/" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/bac.jpg" class="thumbnail">
@@ -190,6 +182,14 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Tax-Calculator: Behavioral-Responses</b></h4>
 				<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
+			</div>
+		</a>
+		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>Tax-Cruncher</b></h4>
+				<p><i>Calculates individual federal tax liabilities under customizable policy scenarios</i></p>
 			</div>
 		</a>
 			<a href="https://github.com/PSLmodels/taxdata" class ="portcard">
