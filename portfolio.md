@@ -64,12 +64,12 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
-		<a href="https://github.com/PSLmodels/ParamTools" class ="portcard">
+		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/gears.png"  class="thumbnail">
+			<img src="/images/data.jpg"  class="thumbnail">
 			<div class ="container">
-				<h4><b>ParamTools</b></h4>
-				<p><i>Library for parameter processing and validation</i></p>
+				<h4><b>Synth-Impute</b></h4>
+				<p><i>Library for data synthesis and imputation using parametric and nonparametric methods</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/donboyd5/synpuf" class ="portcard">
@@ -81,7 +81,7 @@ a.portcard:visited {
 			</div>
 		</a>
 		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
+			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher</b></h4>
@@ -144,6 +144,14 @@ a.portcard:visited {
 				<p><i>Evaluates the total cost of paid family and medical leave policy proposals</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/PSLmodels/ParamTools" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/gears.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>ParamTools</b></h4>
+				<p><i>Library for parameter processing and validation</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/PSLmodels/PCI" class ="portcard">
 			<p class = "cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/pci.jpg" class="thumbnail">
@@ -168,7 +176,7 @@ a.portcard:visited {
 				<p><i>Integrator package and webapp for open source tax models</i></p>
 			</div>
 		</a>
-			<a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
+		<a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/taxcalc.jpg" class="thumbnail">
 			<div class ="container">
