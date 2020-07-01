@@ -1,0 +1,46 @@
+I"¢<style>
+.wrap{
+	width: 100%; 
+}
+.teamcard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 200px;
+	height: 220px;
+	background:#fff;
+	text-align:center;
+	margin-right:40px;
+	margin-bottom:50px;
+	float: left;
+}
+.picture{
+	height:40%;
+	margin:30px 0px 10px 0px;
+}
+.alum-pic{
+	height:40%;
+	margin:10px 0px 15px 0px;
+}
+.alumnus{
+	margin:0px 0px 0px 140px;
+	color:gray;
+	background-color:#E8E8E8;
+	border:1px;
+	border-style:solid;
+	border-color:gray;
+	font-size:12px;
+}
+a.teamcard {
+	color: black;
+	text-decoration: none;
+}
+a.teamcard:hover {
+	color: black;
+	text-decoration: none;
+	background-color: #eff1f2;
+}
+a.teamcard:visited {
+	color: black;
+}
+</style>
+:ET

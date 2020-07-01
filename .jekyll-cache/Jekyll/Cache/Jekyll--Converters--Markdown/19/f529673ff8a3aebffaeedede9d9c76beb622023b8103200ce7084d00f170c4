@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>A new OSPC-incubated project predicts policy changes in China.</strong> The regime tips its hand when picking which articles to feature on the front page of its state-run newspaper, the People’s Daily. Before the government implements a reform, the paper features pro-reform articles and editorials to build support for the government’s agenda. In theory, if you read the paper cover to cover every day, you would be able to say, with a reasonable degree of confidence, which articles are front page worthy, and which are not. If you are surprised that an article makes the front page, you might infer that a policy change is coming. Weifeng Zhong (AEI) and Julian TszKin Chan (Bates White) built a machine learning model to enact this process, and the result is the new Policy Change Index (PCI) of China. A PCI spike — like what’s happening in the first three quarters of 2018 — means that the model is predicting a policy shift. China watchers should check out the index, and foreign policy or intelligence analysts should consider the extension of the index to other authoritarian regimes with state-controlled media, such as North Korea and Cuba. <a href="http://www.policychangeindex.com/">Link</a></p>
+
+<p><strong>New tools for data analysis in academic research.</strong> While published research papers are still the standard output of academic research, digital “notebooks” — documents containing interactive code, output, and explanatory text — are rapidly gaining mindshare for pre- and post- publication collaboration. QuantEcon just launched a new library of open source notebooks for economic analysis called QuantEcon Notes. QuantEcon was founded by John Stachurski (Australia National University) and Tom Sargent (New York University and a 2011 Nobel laureate) to spread open source analysis in economics. The new QuantEcon Notes library is a promising tool toward that end. While notebooks should not substitute for carefully tested research software packages, they are excellent for sharing final data analyses that rely on other packages in an easy to follow and reproducible fashion. Open source policy analysts should strongly consider submitting notebooks to QuantEcon Notes. <a href="http://notes.quantecon.org/">Link</a></p>
+
+<p><strong>Paul Romer weighs in.</strong> Speaking of notebooks and Nobel laureates, Paul Romer, cowinner of the 2018 prize, delivered one of the strongest arguments for open source analysis that I have read in his April 2018 blog post comparing Jupyter notebooks (open source) and Mathematica notebooks (closed source). <a href="https://paulromer.net/jupyter-mathematica-and-the-future-of-the-research-paper/">Link</a></p>
+
+<p><strong>The Economist open sources its Big Mac Index</strong>, a measure that estimates how overvalued or undervalued one currency is relative to another. The magazine plans to open source significantly more of the data and analyses behind its articles in coming months. <a href="https://medium.economist.com/peeling-back-the-curtain-487bd3be0c47">Link</a></p>
+
+<p><strong>A new Congressional Budget Office (CBO) podcast on transparency.</strong> There are many facets to the CBO’s new transparency efforts, but the most important by far is its effort to open source the models that it and the American people rely on to predict the effects of policy proposals. <a href="https://www.cbo.gov/podcasts/54529">Link</a></p>
+
+<p><strong>Reappearance of The New York Times “tax volcano” visualization.</strong> Julia Wolfe, a visual journalist at FiveThirtyEight, took to Twitter to extoll the benefits of interactive visualizations: “This isn’t just @FiveThirtyEight readers. At the @WSJ, @globeandmail &amp; @TorontoStar I was often blown away by how often readers would click, slide, zoom &amp; scroll in exchange for positive feedback and an interesting takeaway.” Ben Casselman at the Times chimed in his support, linking to the Times’ “tax volcano” visualization that relied on the open source Tax-Calculator project (incubated at OSPC): “One of the best things about this project with @qdbui was the way readers picked out individual dots and asked what was going on. I spent days answering questions on Twitter.” The tax volcano appeared in many of the Times stories about the Tax Cuts and Jobs Act debate, and it was used by several congressional Republican staffers for a “tweet your tax cut” campaign. <a href="https://twitter.com/bencasselman/status/1053290307884929024">Link</a></p>
+
+<p>Edited by Matt Jensen
+<br />
+American Enterprise Institute</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

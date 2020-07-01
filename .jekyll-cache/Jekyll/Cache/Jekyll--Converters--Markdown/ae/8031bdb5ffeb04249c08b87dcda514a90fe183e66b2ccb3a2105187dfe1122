@@ -1,0 +1,20 @@
+I"=<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Visualizing the economic damage of COVID-19 for low-income workers.</strong> The Urban Institute, a DC-based think tank, has produced an open-source analysis of low-income job loss as a result of the COVID-19 lockdowns. The modeling team uses detailed unemployment data from Washington state and New York state to estimate job loss in other states with less granular data. Combining trends from Washington and New York with data from the Bureau of Labor Statistics, the analysis estimates low-income job loss on the census tract level by industry. The visualization and analysis are intended to help governments and organizations target assistance where it is needed most. <a href="https://www.urban.org/features/where-low-income-jobs-are-being-lost-covid-19">Link</a></p>
+
+<p><strong>Dutch government commits to “free software by default.”</strong> The Dutch minister for internal affairs announced a new policy aim that will encourage any software developed by the government to be released to the public, unless it endangers national security or privacy. While not mandated, the new commitment also strongly encourages the open sourcing of existing software. This decision comes after a years-long debate on the merits of publishing government software, including transparency, reduced costs, and economic stimulation versus concerns regarding security and market disruption. <a href="https://fsfe.org/news/2020/news-20200424-01.html">Link</a></p>
+
+<p><strong>An open-source database for 3D printing designs.</strong> 3D printers are a primary tool in the global effort to develop personal protective equipment and medical devices that support those at the frontlines of the COVID-19 pandemic. Organizations and individuals around the world are 3D printing medical supplies thanks to the 3D printer’s rapid prototyping capabilities, low starting costs, small physical footprint, and, importantly, the ease of sharing open source designs over the internet. To facilitate collaboration, the National Institutes of Health — in partnership with the US Food and Drug Administration, the Veterans Healthcare Administration, and America Makes — is curating a database of open source 3D printing designs, some of which have been tested, validated, and are determined safe for use in clinical settings. <a href="https://3dprint.nih.gov/collections/covid-19-response">Link</a></p>
+
+<p><strong>April updates from Policy Simulation Library (PSL) projects.</strong> Check out the PSL newsletter for webinars, model releases, and general updates from PSL-cataloged projects. <a href="https://www.pslmodels.org/Newsletter/archive.html">Link</a></p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

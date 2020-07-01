@@ -1,0 +1,24 @@
+I"=<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>January Policy Simulation Library Meeting recap.</strong> The Policy Simulation Library (PSL) DC Meeting series continued on January 29, hosted by OSPC at AEI’s DC headquarters. The meeting began with brief updates from a handful of open source projects and initiatives, including the OSPC-incubated Policy Change Index (Weifeng Zhong; AEI), PSL’s community-development efforts (Peter Metz; OSPC), and the Congressional Budget Office’s (CBO) transparency initiatives (Kevin Perese; CBO). Then, the meeting featured a presentation from Richard Evans (University of Chicago) on dynamic revenue analysis and using OG-USA, an open source, overlapping-generations model of the US economy. If you missed the meeting, check out a full recap and video of the presentations. <a href="https://www.aei.org/events/the-policy-simulation-library-dc-meeting-og-usa-model-demo/?mkt_tok=eyJpIjoiT1RNMk1UUmxZalk1WmpBNSIsInQiOiJVNGRlaHROSDBidFRIZUcrV2R3OE56b3g2Slh2TE93SzVhejNnK0VKSzl1MVVFZzlCUUh6MXdmbGhTOWp0eWp0alZteTlHdjJsSUZza1wvNytPR2hJUGE5ZUpXWlwvZmJ4SitEXC9sS2k0VGZhUzZoTjhTeFZXRGhRZ2lJeEhwV3I2ZiJ9">Link</a></p>
+
+<p><strong>Tax-Calculator analysis of the proposed 70 percent marginal tax rate.</strong> In a recent Bloomberg article, AEI’s Aparna Mathur explores the ramifications of Rep. Alexandria Ocasio-Cortez’s (D-NY) proposal to impose a 70 percent marginal tax rate on incomes above $10 million. Mathur breaks down the concept of the elasticity of the taxable income (ETI), the effect that a change in tax rate has on taxable income. Mathur tests various ETI assumptions with the OSPC-incubated Tax-Calculator to assess how the proposed policy would affect tax revenues. <a href="https://news.bloombergtax.com/daily-tax-report/insight-a-70-tax-rate-on-the-rich-may-be-smart-politics-but-is-not-smart-economics?mkt_tok=eyJpIjoiT1RNMk1UUmxZalk1WmpBNSIsInQiOiJVNGRlaHROSDBidFRIZUcrV2R3OE56b3g2Slh2TE93SzVhejNnK0VKSzl1MVVFZzlCUUh6MXdmbGhTOWp0eWp0alZteTlHdjJsSUZza1wvNytPR2hJUGE5ZUpXWlwvZmJ4SitEXC9sS2k0VGZhUzZoTjhTeFZXRGhRZ2lJeEhwV3I2ZiJ9">Link</a></p>
+
+<p><strong>Spike in the Policy Change Index (PCI).</strong> The PCI is an OSPC-incubated model that predicts changes in Chinese policy by analyzing China’s state-run newspaper. Recently, the index spiked, indicating a shift in Chinese policy priority. Weifeng Zhong and Julian TszKin Chan, the core maintainers of PCI, analyze the policy areas that caused the index to spike and conclude that President Xi is pursuing an agenda that is largely designed to bolster Xi’s authority and popularity and not to address the United States’ demands in the trade conflict. <a href="https://www.aei.org/publication/chinas-next-policy-change-not-what-president-trump-hopes-for/?mkt_tok=eyJpIjoiT1RNMk1UUmxZalk1WmpBNSIsInQiOiJVNGRlaHROSDBidFRIZUcrV2R3OE56b3g2Slh2TE93SzVhejNnK0VKSzl1MVVFZzlCUUh6MXdmbGhTOWp0eWp0alZteTlHdjJsSUZza1wvNytPR2hJUGE5ZUpXWlwvZmJ4SitEXC9sS2k0VGZhUzZoTjhTeFZXRGhRZ2lJeEhwV3I2ZiJ9">Link</a></p>
+
+<p><strong>Monetary policy and unemployment in QuantEcon Notes.</strong> In a new Jupyter notebook published in QuantEcon notes, a library of open source notebooks for economic analysis, Mohammed Aït Lahcen replicates results from an influential 2011 paper that explores the long-term relationship between inflation and unemployment. <a href="https://notes.quantecon.org/submission/5c4f0f17f68373000f919cd2?mkt_tok=eyJpIjoiT1RNMk1UUmxZalk1WmpBNSIsInQiOiJVNGRlaHROSDBidFRIZUcrV2R3OE56b3g2Slh2TE93SzVhejNnK0VKSzl1MVVFZzlCUUh6MXdmbGhTOWp0eWp0alZteTlHdjJsSUZza1wvNytPR2hJUGE5ZUpXWlwvZmJ4SitEXC9sS2k0VGZhUzZoTjhTeFZXRGhRZ2lJeEhwV3I2ZiJ9">Link</a></p>
+
+<p><strong>Ranking the most open governments.</strong> The Global Open Data Index is a measure for comparing the availability and transparency of government data around the world. The index measures openness in 15 different categories such as government budget, procurement, and air quality. The United States ranks 11th out of 94 countries, with significant deficiencies in company register (i.e. a list of registered limited liability companies), election results, locations (i.e. a database of ZIP codes), and land ownership. <a href="https://index.okfn.org/?mkt_tok=eyJpIjoiT1RNMk1UUmxZalk1WmpBNSIsInQiOiJVNGRlaHROSDBidFRIZUcrV2R3OE56b3g2Slh2TE93SzVhejNnK0VKSzl1MVVFZzlCUUh6MXdmbGhTOWp0eWp0alZteTlHdjJsSUZza1wvNytPR2hJUGE5ZUpXWlwvZmJ4SitEXC9sS2k0VGZhUzZoTjhTeFZXRGhRZ2lJeEhwV3I2ZiJ9">Link</a></p>
+
+<p>Edited by Matt Jensen
+<br />
+American Enterprise Institute</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

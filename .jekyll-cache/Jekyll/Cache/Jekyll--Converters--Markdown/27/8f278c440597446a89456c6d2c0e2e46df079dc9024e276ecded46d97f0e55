@@ -1,0 +1,26 @@
+I"y<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Tax-Brain analysis of new Trump tax proposal.</strong> Last week, The Washington Post reported that President Trump’s economic advisers, led by Larry Kudlow, were considering a proposal to lower federal individual income tax rates for the middle and upper class. Hours after The Washington Post article was published, policy analysts including Ernie Tedeschi (Evercore ISI) and Kyle Pomerleau (AEI) took to Tax-Brain* to explore exactly who the plan would help and estimate its revenue implications. <a href="https://twitter.com/ernietedeschi/status/1194357143433969665">Link</a> and <a href="https://twitter.com/kpomerleau/status/1194389733360766976">link</a></p>
+
+<p><strong>Congressional Budget Office (CBO) opens code behind minimum wage analysis.</strong> In July, the CBO released a report that estimated the employment and family income effects of raising the federal minimum wage. Recently, the CBO published an online tool that allows users to explore the effects of their own minimum wage policy and has released the source code as an R software package. <a href="https://www.cbo.gov/publication/55681">Link</a></p>
+
+<p><strong>. . . and a model for financial regulation analysis.</strong> In September, the CBO released a report that reviewed options for financial regulation reform and estimated their budgetary effects. The model used to calculate the revenue effects is written in Python and is open source. An interactive Excel tool accompanies the model and allows users to simulate the budgetary effects of their own financial regulation reform proposal. <a href="https://www.cbo.gov/publication/55586">Link</a></p>
+
+<p><strong>GitHub CEO buries open-source code in Arctic mineshaft for safekeeping.</strong> A Bloomberg reporter traveled with GitHub’s CEO to Svalbard, an archipelago halfway between mainland Norway and the North Pole, for a firsthand look at the Arctic World Archive. Buried in the depths of an abandoned mineshaft, GitHub stores physical copies of open-source code on practically indestructible film. On February 2, 2020, Github will capture a snapshot of every active public code repository, including each OSPC-incubated project, for storage in the arctic archive. <a href="https://www.bloomberg.com/news/features/2019-11-13/microsoft-apocalypse-proofs-open-source-code-in-an-arctic-cave">Link</a> and <a href="https://archiveprogram.github.com/">link</a></p>
+
+<p><strong>PCI-China joins the Policy Simulation Library (PSL) Catalog.</strong> PCI-China,* an open-source project that uses machine learning to read the People’s Daily and predict Chinese Communist Party policy, has met PSL’s* criteria for transparency and quality and has been admitted to the PSL Catalog. <a href="https://www.pslmodels.org/Catalog/index.html">Link</a></p>
+
+<p><strong>Synthetic data at the PSL meeting.</strong> Next week, Don Boyd (University at Albany) will present a synthetic dataset for tax policy analysis at the PSL meeting, hosted at AEI on November 26. <a href="https://www.aei.org/events/the-policy-simulation-library-dc-meeting-a-new-synthetic-data-set-for-tax-policy-analysis/">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET
