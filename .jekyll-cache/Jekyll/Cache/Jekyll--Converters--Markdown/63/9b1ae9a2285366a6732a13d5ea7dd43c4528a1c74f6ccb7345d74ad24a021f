@@ -1,0 +1,24 @@
+I"H<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Paid Family Leave – Cost Model presented before Congress.</strong> Aparna Mathur (AEI) submitted a written statement regarding paid family leave policy for the House Committee on Ways and Means Subcommittee on Worker and Family Support. In her statement, Mathur cites the Paid Family Leave – Cost Model* to estimate the costs of different policy proposals. <a href="https://www.aei.org/wp-content/uploads/2019/04/Paid-Leave-Written-Statement-Aparna-Mathur.pdf?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D">Link</a></p>
+
+<p><strong>How to build your own Mars rover.</strong> NASA’s Jet Propulsion Laboratory (JPL) open sourced the instructions and software to build your own model of the six-wheel rover that NASA uses to explore the surface of Mars. All of the components are publicly available, cost about $2,500 in total, and are listed on JPL’s GitHub repository. <a href="https://github.com/nasa-jpl/open-source-rover/?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D#readme">Link</a></p>
+
+<p><strong>Cost-of-Capital-Calculator at the Policy Simulation Library (PSL) meeting.</strong> The April PSL meeting, hosted by OSPC at AEI, kicked off with updates from Kevin Perese about health insurance and Social Security modeling at the Congressional Budget Office and Weifeng Zhong on the Policy Change Index for China.* Then, Jason DeBacker presented the Cost-of-Capital-Calculator,* an open-source model for evaluating the effect of US federal taxes on businesses’ investment incentives. If you missed the event, read the recap and watch the video <a href="http://www.aei.org/events/the-policy-simulation-library-dc-meeting-cost-of-capital-calculator-model-demo/?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D">here</a>.</p>
+
+<p><strong>Data visualization contest now accepting entries.</strong> The annual John Hunter Excellence in Plotting contest is accepting your best data visualization through June 8. Last year, the winning entry depicted the spread of the Ebola virus through West Africa from 2013 to 2015. If you would like to develop a visualization using an OSPC-incubated model and need help getting started, just reply to this email. <a href="http://droettboom.com/jhepc2018-judge-packet/entry3.html?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D">Link</a> and <a href="https://docs.google.com/forms/d/e/1FAIpQLSe-_AnKvYSzeQWfNDRoXgW0vl7_8q6jj3QbLIac8eUcb9lSAA/viewform?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D">link</a></p>
+
+<p><strong>And new animation capabilities to help you win.</strong> Matplotlib is a blue-chip Python 2D plotting library, best known for its easy-to-use and expansive graphing utilities. While famous for graphing, Matplotlib also gives users the tools to create their own animations. In a recent blog post, Parul Pandey demonstrates Matplotlib’s animation capabilities, complete with examples and snippets of code. <a href="https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c?mkt_tok=eyJpIjoiWTJNNE1URmpPV1pqTkRaaSIsInQiOiJSU1Y0VnJmc3RlZzJzajFwdlV4UThEWUgxTmhUNWJpd2xmK2F0QnRFcFJOb3owbElVRFpvek9ma1wvZ2VrUWYxa2Z6MElHQU5Rb2V1b0Jqd09ZK3VqN3ZUdnVUYTRCbXVyeGR4U1EyNjRoKzB3WXc5RDZoMlg2d3RxTWxxaFR1a0EifQ%3D%3D">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

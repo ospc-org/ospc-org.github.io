@@ -1,0 +1,22 @@
+I"X<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Cost-of-Capital-Calculator simulation of cutting the capital gains tax rate.</strong> President Trump has floated the idea of cutting capital gains tax rates to help stimulate the economy. Kyle Pomerleau (AEI) turned to Cost-of-Capital-Calculator to simulate the effect of lower capital gains tax rates on the marginal effective tax rate on new investment. <a href="https://twitter.com/kpomerleau/status/1258497005598453761">Link</a></p>
+
+<p><strong>And a Tax-Calculator analysis of the HEROES Act rebates.</strong> Pomerleau also used Tax-Calculator to analyze the economic relief payments proposed in the HEROES Act, an economic relief package passed by the House. <a href="https://twitter.com/kpomerleau/status/1262822798709403652">Link</a></p>
+
+<p><strong>A synthetic dataset for tax policy analysis.</strong> A significant barrier to accurate tax policy analysis, especially for individuals and organizations without access to confidential or expensive proprietary data, is the lack of available and reliable microdata. For this reason, Don Boyd (University at Albany) and his colleagues Max Ghenis (UBI Center) and Dan Feenberg (NBER) are developing a publicly available, synthetic dataset (i.e., not corresponding to real taxpayers) that mimics aggregate characteristics of an IRS dataset. In a recent Quantitative Note, Boyd describes creating the dataset, assigning weights, and evaluating quality. <a href="http://www.openrg.com/reports/SynData_QN.pdf">Link</a></p>
+
+<p><strong>COVID-19 model that promised open source delivers.</strong> In a March <a href="https://www.ospc.org/newsletter03252020/">newsletter</a>, we discussed an influential COVID-19 model created by Neil Ferguson and a team at Imperial College London and their plans to open source their code. You can now find their code on GitHub. <a href="https://github.com/mrc-ide/covid-sim">Link</a></p>
+
+<p><strong>European governments adopt open-source software.</strong> In our last <a href="https://www.ospc.org/newsletter05062020/">newsletter</a>, we discussed the Dutch government’s plan to adopt open-source software. Now Munich, the third largest city in Germany, has committed to the principle, “public money, public code,” and plans to use open-source software and release non-confidential code. <a href="https://www.zdnet.com/article/linux-not-windows-why-munich-is-shifting-back-from-microsoft-to-open-source-again/">Link</a></p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

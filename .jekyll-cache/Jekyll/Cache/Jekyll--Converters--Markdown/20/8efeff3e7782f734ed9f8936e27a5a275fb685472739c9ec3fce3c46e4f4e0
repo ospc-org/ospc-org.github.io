@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Synthetic data at the Policy Simulation Library meeting.</strong> One challenge to tax policy microsimulation modeling and analysis is gathering data that represent American taxpayers. Since taxpayer information is confidential, IRS data sets are costly to produce and obtain, and data sets from other sources may be less representative. To bridge the gap between open and accurate, Don Boyd and other OSPC colleagues have created a “synthetic” data set to mirror the properties of the IRS data set but contain no confidential information. Dr. Boyd will present his work at the PSL* meeting on November 26 at AEI, including a discussion of what this data set is and is not useful for. <a href="https://www.aei.org/events/the-policy-simulation-library-dc-meeting-a-new-synthetic-data-set-for-tax-policy-analysis/">Link</a></p>
+
+<p><strong>Exploring options to pay for Medicare for All with Tax-Brain.</strong> In a recent report, the Committee for a Responsible Federal Budget (CRFB) explores options for financing Medicare for All. Using Tax-Brain* and other microsimulation models, CRFB estimates the revenue raised by a range of possible options for tax reform. <a href="http://www.crfb.org/papers/choices-financing-medicare-all-preliminary-analysis">Link</a></p>
+
+<p><strong>The open-source software behind Google’s search engine.</strong> When we type a query into Google, we usually try to phrase the question so that the computer will understand. However, the search engine does not always correctly interpret our more nuanced questions when, for example, a preposition changes the meaning of the query. That’s why Google has developed BERT, an open-source software for natural language processing that can understand complicated searches by inferring the context of the words. <a href="https://www.blog.google/products/search/search-language-understanding-bert/">Link</a></p>
+
+<p><strong>Tax-Calculator issues new release.</strong> Tax-Calculator* release v2.6.0 adds an additional version of recipe04 from the Tax-Calculator cookbook that shows how to use Pandas in applying different response elasticities to different earnings groups. <a href="https://github.com/PSLmodels/Tax-Calculator/releases/tag/2.6.0">Link</a></p>
+
+<p><strong>October PSL newsletter is out.</strong> The PSL newsletter features user highlights and model updates. <a href="https://www.pslmodels.org/Newsletter/archive.html">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><em>Correction: In our October 23 newsletter, we wrote, “Alan Viard (AEI) and Sita Slavov (George Mason) investigate methods for making Social Security and Medicaid more progressive.” In fact, Slavov and Viard (2019) discuss options for making Social Security and <strong>Medicare</strong> more progressive.</em></p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

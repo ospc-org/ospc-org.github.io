@@ -1,0 +1,25 @@
+I"�
+<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Policy Simulation Library (PSL) measures the severity of the coronavirus outbreak in China.</strong> Using infrastructure from the <a href="https://github.com/PSLmodels/PCI-China">Policy Change Index</a>,* Weifeng Zhong and Julian TszKin Chan gauge the severity of the coronavirus crisis in China with their model PCI-Outbreak by analyzing news reports from the country’s flagship state media publication, The People’s Daily. Results show that the severity of the outbreak is decreasing but at a rate much lower than the case-count reductions reported by Chinese state media. <a href="https://policychangeindex.org/overview-PCI-Outbreak.html">Link</a></p>
+
+<p><strong>IBM releases COVID-19 data science modules.</strong> IBM Center for Open Source Data and AI Technologies has released a series of Jupyter Notebooks to help data scientists and policy analysts analyze COVID-19 time series data. The notebooks aim to collect data from publicly available COVID-19 databases and allow users to easily analyze pre-aggregated data. <a href="https://github.com/CODAIT/covid-notebooks">GitHub</a></p>
+
+<p><strong>University of Massachusetts Amherst and NASA Jet Propulsion laboratory (JPL) develop open-source respirator designs.</strong> The Advanced Digital Design and Fabrication Lab at UMass Amherst has created prototype models for use in the Open Standard Respirator (OSR) project, an effort to supply cheap and effective respirators worldwide. Additionally, NASA’s JPL has created a GitHub repository containing three open-source respirator designs. <a href="https://openstandardrespirator.org">OSR website</a>, JPL GitHub</p>
+
+<p>Volkswagen will develop an open-source automotive operating system. The Volkswagen Group will build an open-source automotive operating system known as VW.OS, based on either Linux or Android, for future models to bring more software to their cars. <a href="https://www.carexpert.com.au/news/volkswagen-to-develop-in-house-infotainment-software/">Link</a></p>
+
+<p>June updates from PSL projects. Check out the PSL newsletter for webinars, model releases, and general updates from PSL-cataloged projects. <a href="https://www.pslmodels.org/Newsletter/archive.html">Link</a></p>
+
+<p>*Policy Change Index is a project of the Policy Simulation Library.</p>
+
+<p>Edited by Matt Jensen, Peter Metz, and Jacob Chuslo</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

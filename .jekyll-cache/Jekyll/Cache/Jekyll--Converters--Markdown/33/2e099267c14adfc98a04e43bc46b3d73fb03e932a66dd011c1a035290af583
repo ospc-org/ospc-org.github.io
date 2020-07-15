@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Managing a revolution in transportation with open source software.</strong> The Los Angeles Department of Transportation has developed groundbreaking software that tracks the location of dockless vehicles to shape a variety of policy decisions, such as how to alleviate traffic, where to put a protected bike lane, and whether low-income residents have access to scooters and e-bikes. In less than a year, other cities, including Seattle and Providence have adopted the Mobility Data Specification (MDS), and even more cities have contributed to its development. While MDS has great potential to inform transportation policy decisions and be applied beyond dockless vehicles, privacy advocates and private companies (e.g. Uber) have raised concerns regarding MDS’s use of private data. <a href="https://github.com/CityOfLosAngeles/mobility-data-specification">Link</a> and <a href="https://ladot.io/wp-content/uploads/2018/12/What-is-MDS-Cities.pdf">link</a></p>
+
+<p><strong>Open source tax modeling in India.</strong> India’s Ministry of Finance continues to develop the nation’s open source policy simulation capabilities. Rick Evans (University of Chicago) and Jason DeBacker (University of South Carolina) returned to India this month to hold a week-long workshop on OG-USA* at the Tax Policy Research Unit in New Delhi to support these efforts. <a href="https://twitter.com/RickEcon/status/1164691854178209792">Link</a></p>
+
+<p><strong>Business-Taxation at the Policy Simulation Library (PSL) meeting.</strong> The August PSL* DC meeting will feature a presentation from Cody Kallen (University of Wisconsin–Madison) on Business-Taxation,* an incubating model for business tax policy revenue estimation. The meeting will be hosted by AEI on Thursday, August 29, at noon. <a href="http://www.aei.org/events/the-policy-simulation-library-dc-meeting-revenue-estimation-with-the-business-taxation-model/">Link</a></p>
+
+<p><strong>And the September PSL meeting not far behind.</strong> On September 11, Lars Vilhuber, the executive director of the Labor Dynamics Institute at Cornell University and the American Economics Association’s Data Editor, will be featured at the PSL DC meeting. Dr. Vilhuber joins us to discuss the challenges to greater transparency and reproducibility in social science research and the steps that AEA has taken for curating research data and promoting reproducible research. <a href="http://www.aei.org/events/the-policy-simulation-library-dc-meeting-promoting-transparency-and-reproducibility-at-the-american-economic-association/">Link</a></p>
+
+<p><strong>A workshop for research transparency and reproducibility.</strong> The Berkeley Institute of Transparency in the Social Sciences will hold its annual Research Transparency and Reproducibility Training (RT2) in Washington, DC from September 11 to September 13. Hosted at the World Bank headquarters, RT2 is a hands-on training that provides researchers in the social sciences with an overview of tools and best practices for transparent and reproducible social science research. The last day to apply to RT2 is Wednesday, August 28. <a href="https://www.bitss.org/events/rt2dc/">Link</a></p>
+
+<p><strong>…and a textbook for research transparency and reproducibility.</strong> If you can’t make it to RT2, check out “Transparent and Reproducible Social Science Research: How to Do Open Science,” a brand new textbook that provides a comprehensive introduction to open science tools and methods. The authors lay out the challenges to reproducible research and offer a set a concrete steps researchers can adopt to improve transparency. <a href="https://www.bitss.org/2019/07/23/transparent-and-reproducible-social-science-research-a-new-open-science-textbook/">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

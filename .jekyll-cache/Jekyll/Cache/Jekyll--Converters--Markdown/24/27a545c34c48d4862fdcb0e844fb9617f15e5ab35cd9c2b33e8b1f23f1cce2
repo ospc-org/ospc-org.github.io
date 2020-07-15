@@ -1,0 +1,26 @@
+I"3<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Policy Simulation Library meeting series returns with a webinar on OG-USA.</strong> On Thursday, April 16, at 2:00 p.m., Matt Jensen (AEI) will interview Jason DeBacker (University of South Carolina) about dynamic tax modeling and the OG-USA* web application. OG-USA, an overlapping-generations model of the US economy, now features a web application, where users can adjust model parameters and run a steady state version of the model without any code. After a brief conversation with Jensen, DeBacker will walk through the web application’s inputs and outputs. <a href="https://www.aei.org/events/webinar-the-policy-simulation-library-dc-meeting-dynamic-tax-modeling-with-the-new-og-usa-web-application/">Link</a></p>
+
+<p><strong>MIT is working on an open-source ventilator.</strong> As more people contract COVID-19, some hospitals will face a shortage of ventilators, machines that help patients breathe. A team of engineers, physicians, and computer scientists based at MIT are designing a low-cost, open-source, emergency ventilator that can easily be assembled around the world for just a few hundred dollars. The team’s primary innovation has been to develop a mechanical system that will automatically squeeze and release an Ambu bag, a common medical device that is typically operated by hand. <a href="https://e-vent.mit.edu/">Link</a></p>
+
+<p><strong>Tax-Calculator breakdown of the CARES Act rebate.</strong> In a blog post, Kyle Pomerleau and Burke O’Brien (AEI) use Tax-Calculator* to evaluate the rebate to individuals as part of Congress’ COVID-19 economic relief package. Pomerleau and O’Brien find that the average value of the rebate will be $1,729 and that 91.3 percent of filers will receive it. <a href="https://www.aei.org/economics/the-care-act-who-will-get-a-rebate-and-how-much/">Link</a></p>
+
+<p><strong>Researchers reconstruct a risk assessment algorithm.</strong> In our <a href="https://www.ospc.org/newsletter02122020/">February</a> newsletter, we discussed the black box risk assessment algorithms that play a prominent role in the criminal justice system. In a recent study, Cynthia Rudin, Caroline Wang, and Beau Coker partially reconstructed the COMPAS model — a widely used risk assessment algorithm. In constructing and analyzing the model, the researchers find that it is biased in some ways, but not necessarily in the ways that <a href="https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing">ProPublica</a> reports. This discrepancy reinforces the notion that, at a minimum, lack of transparency raises questions and, more likely, introduces problems. <a href="https://hdsr.mitpress.mit.edu/pub/7z10o269">Link</a></p>
+
+<p><strong>The Congressional Budget Office (CBO) publishes report on transparency.</strong> In 2020, the CBO aims to produce more materials that detail its models’ assumptions and methodology. <a href="https://www.cbo.gov/system/files/2020-03/56236-CBO-Transparency.pdf">Link</a></p>
+
+<p><strong>The New York Times opens its COVID-19 data.</strong> The Times has released the county-level data behind its COVID-19 <a href="https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html">data visualizations</a>, tracking cases and deaths. <a href="https://github.com/nytimes/covid-19-data">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

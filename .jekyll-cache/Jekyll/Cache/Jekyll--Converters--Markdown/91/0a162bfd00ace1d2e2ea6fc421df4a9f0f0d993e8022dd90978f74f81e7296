@@ -1,0 +1,24 @@
+I"*<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>CERN turns to open source solutions.</strong> The European Organization for Nuclear Research, commonly known as CERN, has launched an initiative to replace its current software dependencies with open source alternatives. As home to the world’s largest particle physics laboratory, including the famous Large Hadron Collider, CERN relies heavily on commercial software. In part a response to Microsoft’s decision to revoke CERN’s status as an “academic institution,” thus raising licensing fees, CERN has decided to migrate to open source software as the backbone of its research. <a href="https://home.cern/news/news/computing/microsoft-alternatives-project-malt">Link</a></p>
+
+<p><strong>Tax-Calculator analysis of the Economic Mobility Act of 2019.</strong> In a chart posted on Twitter, Ernie Tedeschi uses Tax-Calculator&ast; to analyze the distributional effects of the Economic Mobility Act of 2019, a bill that proposes earned income tax credit expansion, full refundability of the child tax credit, and an expansion of the child and dependent care credit. <a href="https://twitter.com/ernietedeschi/status/1141429348207144962">Link</a></p>
+
+<p><strong>Opioid Cost Model,&ast; universal basic income, and more at the PSL meeting.</strong> The June Policy Simulation Library&ast; (PSL) meeting kicked off with a brief update from AEI’s Derrick Choe on mapping the economic costs of the opioid crisis with a new open source project that he is developing alongside AEI’s Alex Brill and Scott Ganz, as well as an update from AEI/OSPC’s Anderson Frailey on Tax-Brain,&ast; an integrator package and web application for open source tax models. Then, Max Ghenis, founder of the UBI Center, presented his work on modeling the distributional economic impact of universal basic income proposals and demoed microdf, a newly released Python package for advanced tax policy analysis and visualization. <a href="https://medium.com/ubicenter/introducing-the-ubi-center-72a8011bfc39">Link</a> and <a href="https://github.com/MaxGhenis/microdf">link</a></p>
+
+<p><strong>Track the global trade of small arms and ammunition.</strong> An interactive, open source data visualization, created by Google developers, analyzes over one million government-authorized small arms and ammunition transfers between 1992 and 2010. <a href="https://armsglobe.chromeexperiments.com">Link</a></p>
+
+<p><strong>How to extract data from a chart.</strong> Chances are you have come across a static chart, such as a PNG or JPEG, without accompanying code or data. Now, with the help of an R software package called magick, you can extract the data, reproduce the chart, and conduct your own analysis. <a href="https://www.r-bloggers.com/extracting-the-data-from-static-images-of-graphs-with-magick/">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET
