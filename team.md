@@ -138,6 +138,13 @@ a.teamcard:visited {
 			<p><i>Opioid Cost Model</i></p>
 		</div>
 	</div>
+	<a href="https://github.com/burkeob" class ="teamcard">
+		<img src ="/images/burke.jpeg" class="picture">
+		<div class ="container">
+			<h4><b>Burke O'Brien</b></h4>
+			<p><i>COVID-MCS</i></p>
+		</div>
+	</a>
 	<a href="https://github.com/ctszkin" class ="teamcard">
 		<img src ="/images/chan.jpg" class="picture">
 		<div class ="container">
