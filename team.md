@@ -184,7 +184,7 @@ a.teamcard:visited {
 		<img src ="/images/ganz.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Scott Ganz</b></h4>
-			<p><i>Opioid Cost Model</i></p>
+			<p><i>Opioid Cost Model; COVID-MCS</i></p>
 		</div>
 	</div>
 	<a href="https://github.com/MaxGhenis" class ="teamcard">
@@ -213,6 +213,13 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Cody Kallen</b></h4>
 			<p><i>Business-Taxation</i></p>
+		</div>
+	</a>
+		<a href="https://github.com/burkeob" class ="teamcard">
+		<img src ="/images/burke.jpeg" class="picture">
+		<div class ="container">
+			<h4><b>Burke O'Brien</b></h4>
+			<p><i>COVID-MCS</i></p>
 		</div>
 	</a>
 		<div class ="teamcard">

@@ -64,6 +64,14 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/PSLmodels/COVID-MCS" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<img src="/images/covid.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>COVID-MCS</b></h4>
+				<p><i>Web app implementing hypothesis testing methodology for COVID-19 case declines</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
 			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src="/images/data.jpg"  class="thumbnail">
