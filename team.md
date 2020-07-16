@@ -131,13 +131,6 @@ a.teamcard:visited {
 			<p><i>Synthetic Household Data</i></p>
 		</div>
 	</a>
-	<a href="https://github.com/burkeob" class ="teamcard">
-		<img src ="/images/burke.jpeg" class="picture">
-		<div class ="container">
-			<h4><b>Burke O'Brien</b></h4>
-			<p><i>COVID-MCS</i></p>
-		</div>
-	</a>
 	<div class ="teamcard">
 		<img src ="/images/brill.jpg" class="picture">
 		<div class ="container">
@@ -220,6 +213,13 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Cody Kallen</b></h4>
 			<p><i>Business-Taxation</i></p>
+		</div>
+	</a>
+		<a href="https://github.com/burkeob" class ="teamcard">
+		<img src ="/images/burke.jpeg" class="picture">
+		<div class ="container">
+			<h4><b>Burke O'Brien</b></h4>
+			<p><i>COVID-MCS</i></p>
 		</div>
 	</a>
 		<div class ="teamcard">
