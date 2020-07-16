@@ -1,0 +1,24 @@
+I"1<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Preparing for differential privacy in the 2020 census.</strong> Last year, the Census Bureau made the controversial announcement that it would adopt differential privacy, an unprecedented and more rigid standard for protecting individuals’ identities, for 2020 US Census data. (Read about the pros and cons in our <a href="https://www.ospc.org/newsletter12192018/">December newsletter</a>.) Among other concerns, researchers worry that the accuracy and quality of the data are difficult to test after it is processed by the differential privacy algorithm, called the Disclosure Avoidance System (DAS). This week, the Census Bureau alleviated some of those concerns by releasing the source code of the DAS along with modules that can read public microdata from 1940. With source code and data, researchers can now test the Census Bureau’s algorithm against other methods for protecting privacy.  If the DAS source code is of high quality and user friendly, its release may also accelerate the adoption of differential privacy by other data providers. <a href="https://www.census.gov/newsroom/blogs/research-matters/2019/06/disclosure_avoidance.html">Link</a> and <a href="https://github.com/uscensusbureau/census2020-das-e2e">link</a></p>
+
+<p><strong>How to make a beautiful website.</strong> Google lays out the essential components to a great website and provides tools to help you along the way. Once your website is live, use Lighthouse, an open source tool that gives you feedback on where your website excels and where it could use some improvement. <a href="https://developers.google.com/web/fundamentals/">Link</a> and <a href="https://github.com/GoogleChrome/lighthouse">link</a></p>
+
+<p><strong>Making the most of Tax-Calculator with taxcalcdf.</strong> Max Ghenis will present taxcalcdf, a python package for advanced Tax-Calculator&ast; analyses and data visualizations, at the upcoming Policy Simulation Library&ast; meeting on June 24. <a href="http://www.aei.org/events/the-policy-simulation-library-dc-meeting-making-the-most-of-tax-calculator-with-taxcalcdf/">Link</a></p>
+
+<p><strong>A new tool for interactive data visualization.</strong> Panel is an open source Python library that allows users to easily create custom web apps and dashboards all within a Jupyter notebook. Panel is easy to use and compatible with many existing Python plotting libraries that data scientists use and love, such as matplotlib, TensorFlow, and Bokeh. <a href="https://medium.com/@philipp.jfr/panel-announcement-2107c2b15f52">Link</a></p>
+
+<p><strong>Rick Evans on the advantages of open source public policy models.</strong> At a recent policy forum called “Informing policy: A review of social security’s MINT microsimulation model,” Rick Evans, University of Chicago, presented on the benefits of open source microsimulation models, using OG-USA,&ast; Tax-Calculator,&ast; Cost-of-Capital-Calculator,&ast; and the Synthetic Household Data&ast; projects as examples. <a href="https://www.youtube.com/watch?v=eay5wwsgQbo&amp;t=324m45s">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

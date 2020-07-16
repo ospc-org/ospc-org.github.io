@@ -1,0 +1,24 @@
+I"Y<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Tax-Calculator analysis of the new standard deduction.</strong> In a recent article published in Tax Notes, Alan Viard (AEI) investigates the impact of the Tax Cut and Jobs Act’s (TCJA) near doubling of the standard deduction. Viard argues that the increase in the standard deduction curbs itemized deductions in a problematic manner, disincentivizing certain beneficial tax preferences while sparing other unjustified tax preferences. Viard uses the OSPC-incubated Tax-Calculator for his quantitative analysis of the increase in the standard deduction. <a href="http://www.aei.org/publication/an-economic-analysis-of-the-tcjas-larger-standard-deduction/">Summary</a> and <a href="https://www.taxnotes.com/tax-notes/exemptions-and-deductions/economic-analysis-tcjas-larger-standard-deduction/2019/04/01/29718">full text</a>.</p>
+
+<p><strong>Tax-Brain at AnacondaCON.</strong> Tomorrow, OSPC’s Anderson Frailey and Hank Doupe will present the OSPC-incubated Tax-Brain at AnacondaCON, a three-day data science conference in Austin, Texas. Tax-Brain integrates economics models into a single tool and allows users without a programming background the ability to run complex tax policy simulations. <a href="https://anacondacon.io">Link</a></p>
+
+<p><strong>Open-source tool for analyzing the Warren wealth tax.</strong> Upon joining the 2020 presidential field, one of Sen. Elizabeth Warren’s (D-MA) first policy proposals was a 2–3 percent wealth tax on America’s richest households. Economists Emmanuel Saez and Gabriel Zucman (UC Berkeley) have teamed up with the Berkeley Initiative for Transparency in the Social Sciences to analyze the economic implications of Sen. Warren’s plan (their code is available on GitHub) and have created an open-source tool for users to see the impact of their own wealth tax plan. <a href="http://wealthtaxsimulator.org/simulator_app/">Link</a></p>
+
+<p><strong>March Policy Simulation Library (PSL) meeting recap.</strong> The March PSL meeting kicked off with updates from AEI’s Matt Jensen (OSPC) and Aparna Mathur. Jensen discussed PSL’s leadership council and governance structure, and Mathur offered an overview of her research on the distributional implications of the TCJA. Then, Ernie Tedeschi (Evercore ISI) presented his novel approach in estimating poverty rates using Tax-Calculator and how he applied the approach to analyze the earned basic income tax credit. <a href="https://www.aei.org/events/the-policy-simulation-library-dc-meeting-estimating-poverty-effects-from-earned-income-tax-credit-reform/">Link</a></p>
+
+<p><strong>Machine learning algorithm identifies Twitter bots.</strong> Recent revelations of the extent of Russian interference in the 2016 presidential election has illuminated the dangers of automated social media accounts. That’s why Jordan Wright and Olabode Anise (Duo Security) developed an algorithm to identify Twitter bots. Their open-source tool uses machine learning methods to train a bot classifier and other data science techniques to map and analyze the bot networks they uncover. <a href="https://duo.com/assets/pdf/Duo-Labs-Dont-At-Me-Twitter-Bots.pdf">Link</a></p>
+
+<p>Edited by Matt Jensen
+<br />
+American Enterprise Institute</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

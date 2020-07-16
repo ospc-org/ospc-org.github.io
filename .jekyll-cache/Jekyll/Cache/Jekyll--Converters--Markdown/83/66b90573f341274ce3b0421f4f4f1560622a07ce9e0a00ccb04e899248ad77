@@ -1,0 +1,22 @@
+I"<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Congressional Budget Office (CBO) releases a second segment of its health insurance model.</strong> The CBO uses its health insurance simulation model, HISIM2, to generate estimates of health insurance coverage and premiums, which are used for the CBO’s budget projections. The latest code release offers a look into how HISIM2 models firms’ decisions to offer health insurance. <a href="https://www.cbo.gov/publication/56303">Link</a></p>
+
+<p><strong>Susceptible-Infected-Removed (SIR) model tutorial for economists.</strong> SIR is a modeling technique that computes the theoretical number of people infected with a virus over time. SIR has become a prominent method in modeling the spread of COVID-19 and predicting the impact of social distancing. In a new QuantEcon tutorial, Thomas J. Sargent (NYU) and John Stachurski (Australia National University) explained the components and application of an SIR model, using a Python implementation of the code from a recent working paper by Andrew Atkeson (UCLA). <a href="https://python.quantecon.org/sir_model.html">Link</a></p>
+
+<p><strong>CBO posts code for analyzing means-tested transfer programs on GitHub.</strong> One challenge to analyzing welfare and transfer programs is chronic underreporting of program participation in the Annual Social and Economic Supplement (ASEC) of the US Census Bureau’s Current Population Survey (CPS). In its inaugural GitHub repository, the CBO posted code for adjusting underreported benefit amounts from selected means-tested transfer programs, such as CHIP, SNAP, SSI, and federal housing assistance, in the ASEC. <a href="https://github.com/US-CBO/means_tested_transfer_imputations">Link</a></p>
+
+<p><strong>Italy open sources its contact tracing app.</strong> As Italy begins relaxing its social distancing restrictions, the government released an app called Immuni that will alert people if they come into contact with someone who has tested positive for COVID-19. To enhance privacy and security, the data saved on the phone are encrypted, the connection between the app and the server are encrypted, and the data are deleted when no longer relevant. On-the-ground testing of the app will begin in selected regions on June 8. <a href="https://github.com/immuni-app/immuni-documentation">Link</a></p>
+
+<p><strong>Chan Zuckerberg Initiative (CZI) funds open-source projects.</strong> In a second cycle of funding (we discussed the first cycle in <a href="https://www.ospc.org/newsletter12042019/">December 2019)</a>, CZI announced $3.8 million in funding for some of the open-source projects that OSPC and the Policy Simulation Library  rely on, including JupyterLab and Dask. <a href="https://chanzuckerberg.com/newsroom/awards-3-8-million-open-source-software-projects-essential-science/?eType=EmailBlastContent&amp;eId=644ff469-f8ce-4cee-8f57-53fcc0f0e0cf">Link</a></p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

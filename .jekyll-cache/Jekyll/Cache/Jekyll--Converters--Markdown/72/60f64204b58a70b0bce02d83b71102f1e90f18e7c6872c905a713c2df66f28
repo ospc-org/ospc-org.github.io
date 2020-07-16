@@ -1,0 +1,24 @@
+I"@<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Wealth tax debate comes to center stage.</strong> Emmanuel Saez and Gabriel Zucman, the Berkeley economists who helped design Elizabeth Warren’s wealth tax, recently published a book titled “The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay” that has sparked a lively debate surrounding the wealth tax. In addition to their book, Saez and Zucman launched a website that uses interactive visualizations to display their open source model’s results. The transparency of their data, methods, and code has enabled strong rebuttals from other economists, including <a href="http://www.davidsplinter.com/Splinter-TaxesAreProgressive.pdf?mod=article_inline">David Splinter</a> (Joint Committee on Taxation), <a href="https://www.youtube.com/watch?v=HDKfdmbCuvw&amp;feature=youtu.be&amp;t=30316">Lawrence Summers</a> (Harvard University), <a href="https://twitter.com/wwwojtekk/status/1183953723825020928">Wojtek Kopczuk</a> (Columbia University), <a href="https://twitter.com/WilliamGale2/status/1184498994879369216?s=20">William Gale</a> (Brookings Institution), and <a href="https://www.bloomberg.com/opinion/articles/2019-09-05/warren-wealth-tax-weighs-on-democrats">Michael Strain</a> (AEI), regarding the validity of their assumptions and methodology. <a href="https://taxjusticenow.org/#/">Link</a></p>
+
+<p><strong>Options for Social Security and Medicare reform.</strong> In a recent article published in Tax Notes, Alan Viard (AEI) and Sita Slavov (George Mason) investigate methods for making Social Security and Medicare more progressive. While most plans focus on selectively increasing Social Security taxes to make the benefits system more progressive, Viard and Slavov propose changes to the distribution of benefits to increase progressivity, using Tax-Calculator* for parts of their analysis. <a href="https://www.aei.org/articles/the-wrong-way-to-make-social-security-and-medicare-more-progressive/">Link</a></p>
+
+<p><strong>Deep learning decodes ancient Greek texts.</strong> One of the challenges facing epigraphists — experts who study ancient inscribed texts — is that ancient texts written on scrolls or carved into stone are often damaged and impossible to read in their entirety. Now, an open source deep learning project helps epigraphists complete the damaged text by predicting the missing characters based on context. <a href="https://deepmind.com/research/publications/Restoring-ancient-text-using-deep-learning-a-case-study-on-Greek-epigraphy">Link</a></p>
+
+<p><strong>“Back catalog” of AEA data and code is released.</strong> As part of the American Economic Association’s (AEA) new transparency initiative, the AEA Data Editor uploaded more than 90,000 files supporting thousands of past articles to a code and data repository hosted on openICPSR. <a href="https://twitter.com/AeaData/status/1185740702694686721">Link</a></p>
+
+<p><strong>The Somalian refugee crisis through data.</strong> The United Nations Refugee Agency developed an open source, interactive data visualization for users to understand the geography and magnitude of the Somalian internal displacement crisis. <a href="https://unhcr.github.io/dataviz-somalia-prmn/index.html#reason=&amp;month=&amp;need=&amp;pregion=&amp;pdistrictmap=&amp;cregion=&amp;cdistrictmap=&amp;year=2019">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

@@ -1,0 +1,26 @@
+I"><p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Chan Zuckerberg Initiative (CZI) delivers for open source biomedical software.</strong> Open source software serves many critical roles in biomedical research. Development of the software is usually tied to grants for novel research; in other cases, funding is dedicated to a specific stage of software development. When grant funding runs out after the software has been released, many projects struggle to service their user base. CZI’s newest initiative will work to counteract this phenomenon. On June 18, CZI will begin accepting grant applications from projects that have already been released and will not limit grants to development projects directly tied to novel research. <a href="https://medium.com/@cziscience/essential-open-source-software-for-science-72faec2c38c1">Link</a></p>
+
+<p><strong>Painting with code.</strong> For your next art project, trade in your paintbrush and canvas for open source software. With the help of tools from TensorFlow, an algorithm called “neural style transfer” blends two input images, a content image (the subject of your painting) and a style reference image (such as a painting by your favorite artist), to create your own work of art. Neural style transfer utilizes a machine learning technique called deep learning to minimize the differences (in machine learning terms, distance functions) between the content and style reference images. Learn how to create your own masterpiece with a TensorFlow tutorial. <a href="https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398">Link</a></p>
+
+<p><strong>Explore OG-USA with interactive plots.</strong> The Open Source Economics Lab at the University of Chicago has created interactive 2D and 3D plots to explore various aggregate and individual macroeconomic variables over time. The plots are powered by OG-USA.* <a href="https://www.oselab.org/gallery/overlapping_generations">Link</a></p>
+
+<p><strong>Policy Change Index (PCI) – China predicted the US-China trade stalemate.</strong> Weifeng Zhong and Julian TszKin Chan use the PCI-China* to explain the recent breakdown in US-China trade negotiations. <a href="https://nationalinterest.org/feature/why-china-not-backing-down-trade-war-59047">Link</a></p>
+
+<p><strong>Python governance gears up for board elections.</strong> Nominations are currently open for the 2019–20 Python Software Foundation board elections. Nominations close on June 1 and the election takes place on June 7. <a href="https://www.python.org/nominations/elections/">Link</a></p>
+
+<p><strong>Policy Simulation Library (PSL) May newsletter.</strong> The monthly PSL* newsletter, complete with updates from all PSL models, is available <a href="https://www.pslmodels.org/Newsletter/archive.html">here</a>.</p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

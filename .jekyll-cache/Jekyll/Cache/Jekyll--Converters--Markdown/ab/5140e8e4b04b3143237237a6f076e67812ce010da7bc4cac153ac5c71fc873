@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>The open-source community fights coronavirus.</strong> Since the outbreak of the coronavirus, the scientific community has shared data to track the spread of the virus (discussed in our <a href="https://www.ospc.org/newsletter02262020/">February newsletter</a>) and shared research to learn more about the pathogen. Labs around the world have shared genomes of the virus in an <a href="https://www.gisaid.org/">open-access database</a> to help researchers develop tests for the coronavirus. In addition, a team of researchers used open-source, computational methods to predict the structure of the virus’ protein, a process that can take months using traditional experimental methods. <a href="https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19">Link</a></p>
+
+<p><strong>Reviving the nuclear power debate.</strong> A think tank dedicated to reversing climate change has launched a project they hope will bring nuclear power back to the clean energy discussion. One barrier facing nuclear energy is the costly and lengthy process to build a facility, in part because of complicated and proprietary designs. To address this concern, the OPEN100 project provides open-source blueprints for the design, construction, and financing of relatively small and simple nuclear reactors. <a href="https://www.open-100.com/">Link</a></p>
+
+<p><strong>Tax-Brain analysis of payroll tax cut.</strong> In response to the economic consequences of the coronavirus, President Trump has advocated for a temporary payroll tax cut. To assess the potential distributional impacts, Kyle Pomerleau (AEI) turned to Tax-Brain.* <a href="https://twitter.com/kpomerleau/status/1237439229627699200">Link</a></p>
+
+<p><strong>A new webinar on research transparency.</strong> In a weekly webinar series hosted by Project TIER, researchers from around the world describe their work on increasing transparency in statistical research. This Friday, Dorothy Bishop, a professor of neuropsychology at the University of Oxford, will discuss the cognitive forces and human biases that counteract the scientific process. Tune in Fridays at 1:00 p.m. EST to learn more about advances in research transparency. <a href="https://www.projecttier.org/fellowships-and-workshops/weekly-webcast-leaders-research-transparency/">Link</a></p>
+
+<p><strong>Policy Simulation Library (PSL) newsletter is out.</strong> Check out the February PSL* newsletter for updates from PSL-cataloged projects. <a href="https://www.pslmodels.org/Newsletter/archive.html">Link</a></p>
+
+<p><strong>A guide for finding open data.</strong> A new IBM blog offers a brief overview of how to find the best data set for your research. The blog covers the importance of metadata, data set searches and aggregators, and sites that curate data sets. <a href="https://developer.ibm.com/callforcode/blogs/useful-data-sets-for-call-for-code-2020">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

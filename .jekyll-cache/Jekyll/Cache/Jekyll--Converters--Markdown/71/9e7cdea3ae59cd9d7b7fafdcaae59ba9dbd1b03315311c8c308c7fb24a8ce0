@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Putting a price tag on presidential candidates’ health care proposals.</strong> A recent report from the Committee for a Responsible Federal Budget (CRFB) estimates the costs of leading Democratic presidential candidates’ health care proposals. For their cost estimates, CRFB uses Tax-Brain* to estimate the effects of the candidates’ offsetting changes to the income and payroll tax codes. <a href="https://www.crfb.org/papers/primary-care-estimating-leading-democratic-candidates-health-plans">Link</a></p>
+
+<p><strong>The black box algorithms behind the criminal justice system.</strong> In courtrooms across the country, judges rely on risk assessment algorithms — used to predict the likelihood of someone committing a future crime — to set bond amounts, prison sentences, and probation rules. While these algorithms were introduced to reduce cost and human bias, they may be displaying racial, economic, and geographic biases of their own. Since many of the algorithms are proprietary, defendants, the public, and even judges can’t audit the underlying code to understand their calculations. <a href="https://www.nytimes.com/2020/02/06/technology/predictive-algorithms-crime.html">Link</a></p>
+
+<p><strong>Differential privacy in small towns.</strong> Last week, The New York Times investigated the potential impacts of the Census Bureau’s differential privacy standard on small American counties and towns. For example, in Kalawao County, Hawaii, the algorithm would have erroneously inflated the 2010 population from 90 to 716. These types of mismeasurements could have a range of unintended policy consequences, such as the dispatch of emergency workers during a natural disaster or the dispersion of tax revenues to local governments. <a href="https://www.nytimes.com/interactive/2020/02/06/opinion/census-algorithm-privacy.html">Link</a>. For more on differential privacy, check out some of this newsletter’s past discussions <a href="https://www.ospc.org/newsletter12192018/">here</a>, <a href="https://www.ospc.org/newsletter06122019/">here</a>, and <a href="https://www.ospc.org/newsletter07102019/">here</a>.</p>
+
+<p><strong>Tax-Cruncher gets a new website for students.</strong> Complete with a video tutorial and AEI report, OSPC launched a webpage to introduce Tax-Cruncher* to students. <a href="https://www.ospc.org/tax-cruncher/students">Link</a></p>
+
+<p><strong>OSPC projects preserved in Norway.</strong> In <a href="https://www.ospc.org/newsletter11202019/">November</a>, we highlighted the GitHub Archive Program, an initiative to physically preserve open-source software in an Arctic mineshaft. Last week, GitHub captured a snapshot of all active repositories, including more than 15 OSPC-incubated projects, to archive in the GitHub Arctic Code Vault. <a href="https://archiveprogram.github.com/">Link</a></p>
+
+<p><strong>January Policy Simulation Library (PSL) meeting recap.</strong> If you missed the January PSL* meeting featuring Marco Del Negro (Federal Reserve Bank of New York), check out the video and recap of the event. <a href="https://www.aei.org/events/the-policy-simulation-library-dc-meeting-macroeconomic-modeling-at-the-federal-reserve-bank-of-new-york/">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET

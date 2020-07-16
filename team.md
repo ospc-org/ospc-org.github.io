@@ -184,7 +184,7 @@ a.teamcard:visited {
 		<img src ="/images/ganz.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Scott Ganz</b></h4>
-			<p><i>Opioid Cost Model</i></p>
+			<p><i>Opioid Cost Model; COVID-MCS</i></p>
 		</div>
 	</div>
 	<a href="https://github.com/MaxGhenis" class ="teamcard">

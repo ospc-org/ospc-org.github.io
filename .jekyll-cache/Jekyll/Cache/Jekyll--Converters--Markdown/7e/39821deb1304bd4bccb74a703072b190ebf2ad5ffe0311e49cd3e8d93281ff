@@ -1,0 +1,26 @@
+I"�<p><em>This is a periodic newsletter of the interesting things we’ve seen and what we are thinking about in open source policy analysis.</em></p>
+
+<p><strong>Calculate, analyze, and visualize your own tax liabilities with Tax-Cruncher.</strong> Tax-Cruncher* enables users to calculate their own tax liabilities and marginal tax rates under a policy reform of their choosing. Policymakers and researchers also use Tax-Cruncher to analyze the impact of taxes on sample households. Tax-Cruncher has two interfaces, an easy to use web application for generating preset tables and charts, and a Python API that affords researchers and analysts broader capabilities. <a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/">Link</a> and <a href="https://github.com/PSLmodels/Tax-Cruncher">link</a></p>
+
+<p><strong>American Community Survey (ACS) not subject to differential privacy protection, for now.</strong> If you follow the OSPC newsletter, you have read about differential privacy, the Census Bureau’s new standard for protecting privacy. Recently, the Census Bureau announced that it would not adopt differential privacy for ACS data until at least 2025, a relief to many social science researchers. <a href="https://www.census.gov/newsroom/blogs/random-samplings/2019/07/boost-safeguards.html">Link</a></p>
+
+<p><strong>An economic analysis of Andrew Yang’s “Freedom Dividend.”</strong> Democratic presidential candidate Andrew Yang’s signature economic plan, called the Freedom Dividend, offers a universal basic income to every adult citizen of $1,000 per month and collects revenue through a value added tax and other means. In a blog post, UBI Center’s Max Ghenis analyzes the distributional effects of the Freedom Dividend using the open-source Tax-Calculator.* Ghenis calculates that the plan would benefit people in the bottom 90 percent, hurt the top 10 percent, and cost a total of $1.4 trillion. <a href="https://medium.com/ubicenter/distributional-analysis-of-andrew-yangs-freedom-dividend-d8dab818bf1b">Link</a></p>
+
+<p><strong>Health insurance modeling at the Policy Simulation Library (PSL) meeting.</strong> The July PSL* DC meeting began with an update from AEI’s Peter Metz on Tax-Cruncher and featured a presentation from Geena Kim on the Congressional Budget Office’s health insurance simulation model. Dr. Kim overviewed the model’s specification, data, results, and public code snippets. <a href="http://www.aei.org/events/the-policy-simulation-library-dc-meeting-the-congressional-budget-offices-new-health-insurance-model/">Link</a></p>
+
+<p><strong>Turn your MacBook into a touchscreen with $1 of hardware and open-source software.</strong> With the video feed from your MacBook’s webcam, an open-source computer vision algorithm can translate your movements into “touch events.” The algorithm works by measuring the distance – from the perspective of a $1 mirror situated over your built-in webcam – between your finger and your finger’s reflection on the computer screen to determine if you are touching the screen. <a href="https://www.anishathalye.com/2018/04/03/macbook-touchscreen/">Link</a></p>
+
+<p><strong>PSL July newsletter is out.</strong> Check out the PSL July newsletter for recent PSL model improvements. <a href="https://www.pslmodels.org/Newsletter/archive.html">Link</a></p>
+
+<p>&ast; These projects are attendees or graduates of OSPC’s incubator program.</p>
+
+<p>Edited by Matt Jensen and Peter Metz</p>
+
+<p><br /></p>
+
+<script style="margin-left:-35px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
+
+<form style="margin-left:-35px" id="mktoForm_1256"></form>
+<script style="margin-left:-35px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
+
+:ET
