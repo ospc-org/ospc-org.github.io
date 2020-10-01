@@ -88,6 +88,14 @@ a.portcard:visited {
 				<p><i>Creates synthetic individual income tax dataset</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<img src="/images/vaccine.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Vaccine-Efficacy</b></h4>
+				<p><i>Replication code for assessing the efficacy of COVID-19 vaccines</i></p>
+			</div>
+		</a>
 		<a href="https://ospc.shinyapps.io/border-adjustment-calculator/" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/bac.jpg" class="thumbnail">
