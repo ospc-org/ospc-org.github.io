@@ -56,52 +56,20 @@ a.portcard:visited {
         <article class="post">
 
 <div class ="wrap">
-		<a href="https://github.com/PSLmodels/BRC" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/tax_form.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Business-Taxation</b></h4>
-				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/PSLmodels/COVID-MCS" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/covid.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>COVID-MCS</b></h4>
-				<p><i>Web app implementing hypothesis testing methodology for COVID-19 case declines</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/data.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Synth-Impute</b></h4>
-				<p><i>Library for data synthesis and imputation using parametric and nonparametric methods</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/donboyd5/synpuf" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src ="/images/household.png" class="thumbnail">
-			<div class ="container">
-				<h4><b>Synthetic Household Data</b></h4>
-				<p><i>Creates synthetic individual income tax dataset</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
-			<img src="/images/vaccine.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Vaccine-Efficacy</b></h4>
-				<p><i>Replication code for assessing the efficacy of COVID-19 vaccines</i></p>
-			</div>
-		</a>
 		<a href="https://ospc.shinyapps.io/border-adjustment-calculator/" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/bac.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>Border Adjustment Calculator</b></h4>
 				<p><i>Simulates the effect of a border adjustment on a representative firm</i></p>
+			</div>
+		</a>
+		<a href="https://github.com/PSLmodels/BRC" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/tax_form.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Business-Taxation</b></h4>
+				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/PSLmodels/B-Tax" class ="portcard">
@@ -118,6 +86,14 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Cost-of-Capital-Calculator Webapp</b></h4>
 				<p><i>Webapp interface for Cost-of-Capital-Calculator</i></p>
+			</div>
+		</a>
+			<a href="https://github.com/PSLmodels/COVID-MCS" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/covid.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>COVID-MCS</b></h4>
+				<p><i>Web app implementing hypothesis testing methodology for COVID-19 case declines</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/PSLmodels/C-TAM" class ="portcard">
@@ -176,6 +152,22 @@ a.portcard:visited {
 				<p><i>Open source software library for public-policy decisionmaking</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/data.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Synth-Impute</b></h4>
+				<p><i>Library for data synthesis and imputation using parametric and nonparametric methods</i></p>
+			</div>
+		</a>
+		<a href="https://github.com/donboyd5/synpuf" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src ="/images/household.png" class="thumbnail">
+			<div class ="container">
+				<h4><b>Synthetic Household Data</b></h4>
+				<p><i>Creates synthetic individual income tax dataset</i></p>
+			</div>
+		</a>
 		<a href="https://www.compmodels.org/PSLmodels/Tax-Brain/" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/taxbrain.png" class="thumbnail">
@@ -222,6 +214,14 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Taxes-Investment-Growth</b></h4>
 				<p><i>Analyzes the effect of business tax legislation on investment, GDP, and wages</i></p>
+			</div>
+		</a>
+			<a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
+			<p class="cardtext graduate"><i>Graduate</i></p>
+			<img src="/images/vaccine.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Vaccine-Efficacy</b></h4>
+				<p><i>Replication code for assessing the efficacy of COVID-19 vaccines</i></p>
 			</div>
 		</a>
 	</div>
