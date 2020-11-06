@@ -68,13 +68,6 @@ a.teamcard:visited {
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</a>
-		<a href="https://github.com/Peter-Metz" class ="teamcard">
-		<img src ="/images/metz.jpg" class="picture">
-		<div class ="container">
-			<h4><b>Peter Metz</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</a>
 	<div class ="teamcard">
 		<p class="alumnus"><i>Alumnus</i></p>
 		<img src ="/images/brown.jpg" class="alum-pic">
@@ -97,6 +90,14 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Anderson Frailey</b></h4>
 			<p><i>University of Virginia</i></p>
+		</div>
+	</a>
+	<a href="https://github.com/Peter-Metz" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/metz.jpg"  class="alum-pic">
+		<div class ="container">
+			<h4><b>Peter Metz</b></h4>
+			<p><i>Harvard Business School</i></p>
 		</div>
 	</a>
 	<a href="https://github.com/GoFroggyRun" class ="teamcard">
@@ -215,6 +216,13 @@ a.teamcard:visited {
 			<p><i>Business-Taxation</i></p>
 		</div>
 	</a>
+	<a href="https://github.com/Peter-Metz" class ="teamcard">
+		<img src ="/images/metz.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Peter Metz</b></h4>
+			<p><i>Tax-Cruncher; CCC-Biden; Tax-Cruncher–Biden</i></p>
+		</div>
+	</a>
 		<a href="https://github.com/burkeob" class ="teamcard">
 		<img src ="/images/burke.jpeg" class="picture">
 		<div class ="container">
@@ -234,6 +242,13 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Kerk Phillips</b></h4>
 			<p><i>OG-USA</i></p>
+		</div>
+	</a>
+	<a href="https://github.com/kpomerleau" class ="teamcard">
+		<img src ="/images/pomerleau.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Kyle Pomerleau</b></h4>
+			<p><i>CCC-Biden; Tax-Cruncher–Biden</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/GoFroggyRun" class ="teamcard">
