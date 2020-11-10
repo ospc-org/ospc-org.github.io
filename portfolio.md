@@ -88,7 +88,7 @@ a.portcard:visited {
 				<p><i>Webapp interface for Cost-of-Capital-Calculator</i></p>
 			</div>
 		</a>
-		<a href="https://ccc-biden.herokuapp.com" class ="portcard">
+		<a href="https://compute.studio/AEIEconomics/ccc-biden/" class ="portcard">
 			<p class="cardtext graduate"><i>Graduate</i></p>
 			<img src ="/images/ccc-biden.jpg" class="thumbnail">
 			<div class ="container">
