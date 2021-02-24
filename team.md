@@ -118,6 +118,13 @@ a.teamcard:visited {
 	</a>
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:85%"><b>OSPC Incubator</b></h1>
+	<a href="https://github.com/kieran-allsop" class ="teamcard">
+		<img src ="/images/allsop.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Kieran Allsop</b></h4>
+			<p><i>Vaccine-Efficacy; Vaccine-Flow-Model</i></p>
+		</div>
+	</a>
 	<a href="https://github.com/talumbau" class ="teamcard">
 		<img src ="/images/alumbaugh.jpg" class="picture">
 		<div class ="container">
@@ -137,6 +144,13 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Alex Brill</b></h4>
 			<p><i>Opioid Cost Model</i></p>
+		</div>
+	</div>
+	<div class ="teamcard">
+		<img src ="/images/capretta.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Jim Capretta</b></h4>
+			<p><i>Vaccine-Efficacy; Vaccine-Flow</i></p>
 		</div>
 	</div>
 	<a href="https://github.com/ctszkin" class ="teamcard">
