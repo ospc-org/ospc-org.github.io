@@ -265,6 +265,13 @@ a.teamcard:visited {
 			<p><i>CCC-Biden; Tax-Cruncher–Biden</i></p>
 		</div>
 	</a>
+	<a href="https://github.com/grantseiter" class ="teamcard">
+		<img src ="/images/seiter.jpeg" class="picture">
+		<div class ="container">
+			<h4><b>Grant Seiter</b></h4>
+			<p><i>Child-Tax-Credit Webapp</i></p>
+		</div>
+	</a>
 		<a href="https://github.com/GoFroggyRun" class ="teamcard">
 		<img src ="/images/wang.jpg" class="picture">
 		<div class ="container">
