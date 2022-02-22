@@ -264,6 +264,30 @@ a.portcard:visited {
 				<p><i>Analyzes the effect of business tax legislation on investment, GDP, and wages</i></p>
 			</div>
 		</a>
+            <a href="https://fedstate.pslmodels.org" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<img src="/images/Federal_State_Tax.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Federal-State Tax Project</b></h4>
+				<p><i>Modeling the impact of federal tax policy on the 50 states</i></p>
+			</div>
+		</a>
+            <a href="https://github.com/donboyd5/weighting" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<img src="/images/weighting.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Weighting</b></h4>
+				<p><i>This package contains functions for weighting, reweighting, and constructing geographic weights for microdata</i></p>
+			</div>
+		</a>
+            <a href="https://policyengine.org/about" class ="portcard">
+			<p class="cardtext incubating"><i>Incubating</i></p>
+			<img src="/images/Policy_Engine.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Policy-Engine -US</b></h4>
+				<p><i>Designs tax and benefit reforms</i></p>
+			</div>
+		</a>
 	</div>
 </article>
 </div>
