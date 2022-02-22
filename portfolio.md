@@ -57,7 +57,6 @@ a.portcard:visited {
 
 <div class ="wrap">
 		<a href="https://compute.studio/AEIEconomics/CTC-App/" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src="/images/child.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Child-Tax-Credit Webapp</b></h4>
