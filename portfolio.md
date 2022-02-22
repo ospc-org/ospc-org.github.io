@@ -64,7 +64,6 @@ a.portcard:visited {
 			</div>
 		</a>
 		<a href="https://compute.studio/AEIEconomics/Tax-Cruncher-ARP/" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src="/images/capitol2.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher-ARP</b></h4>
@@ -72,7 +71,6 @@ a.portcard:visited {
 			</div>
 		</a>
 		<a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
-			<p class="cardtext incubating"><i>Incubating</i></p>
 			<img src="/images/vaccine.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Vaccine-Efficacy</b></h4>
