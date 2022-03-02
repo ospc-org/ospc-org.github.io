@@ -56,34 +56,6 @@ a.portcard:visited {
         <article class="post">
 
 <div class ="wrap">
-		<a href="https://compute.studio/AEIEconomics/CTC-App/" class ="portcard">
-			<img src="/images/child.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Child-Tax-Credit Webapp</b></h4>
-				<p><i>Webapp for exploring the impact of Child Tax Credit reforms</i></p>
-			</div>
-		</a>
-		<a href="https://compute.studio/AEIEconomics/Tax-Cruncher-ARP/" class ="portcard">
-			<img src="/images/capitol2.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Tax-Cruncher-ARP</b></h4>
-				<p><i>Tax-Cruncher webapp for exploring impact of American Rescue Plan</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
-			<img src="/images/vaccine.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Vaccine-Efficacy</b></h4>
-				<p><i>Replication code for assessing the efficacy of COVID-19 vaccines</i></p>
-			</div>
-		</a>
-		<a href="https://github.com/kieran-allsop/Vaccine-Flow-Model" class ="portcard">
-			<img src="/images/transport.jpg"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Vaccine-Flow-Model</b></h4>
-				<p><i>Replication code for modeling distribution of COVID-19 vaccines</i></p>
-			</div>
-		</a>
 		<a href="https://ospc.shinyapps.io/border-adjustment-calculator/" class ="portcard">
 			<img src ="/images/bac.jpg" class="thumbnail">
 			<div class ="container">
@@ -96,6 +68,13 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Business-Taxation</b></h4>
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
+			</div>
+		</a>
+        <a href="https://compute.studio/AEIEconomics/CTC-App/" class ="portcard">
+			<img src="/images/child.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Child-Tax-Credit Webapp</b></h4>
+				<p><i>Webapp for exploring the impact of Child Tax Credit reforms</i></p>
 			</div>
 		</a>
 		<a href="https://github.com/PSLmodels/B-Tax" class ="portcard">
@@ -133,6 +112,13 @@ a.portcard:visited {
 				<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
 			</div>
 		</a>
+        <a href="https://fedstate.pslmodels.org" class ="portcard">
+			<img src="/images/Federal_State_Tax.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Federal-State Tax Project</b></h4>
+				<p><i>Modeling the impact of federal tax policy on the 50 states</i></p>
+			</div>
+		</a>
 			<a href="https://github.com/PSLmodels/OG-USA" class ="portcard">
 			<img src ="/images/ogusa.jpg" class="thumbnail">
 			<div class ="container">
@@ -166,6 +152,13 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Policy Change Index - China</b></h4>
 				<p><i>"Reads" China's official newspaper - the People's Daily - and predicts policy changes</i></p>
+			</div>
+		</a>
+        <a href="https://policyengine.org/about" class ="portcard">
+			<img src="/images/Policy_Engine.png"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Policy-Engine -US</b></h4>
+				<p><i>Designs tax and benefit reforms</i></p>
 			</div>
 		</a>
 		<a href="https://www.pslmodels.org" class ="portcard">
@@ -217,6 +210,13 @@ a.portcard:visited {
 				<p><i>Calculates individual federal tax liabilities under customizable policy scenarios</i></p>
 			</div>
 		</a>
+        <a href="https://compute.studio/AEIEconomics/Tax-Cruncher-ARP/" class ="portcard">
+			<img src="/images/capitol2.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Tax-Cruncher-ARP</b></h4>
+				<p><i>Tax-Cruncher webapp for exploring impact of American Rescue Plan</i></p>
+			</div>
+		</a>
 		<a href="https://compute.studio/AEIEconomics/Tax-Cruncher-Biden/" class ="portcard">
 			<img src ="/images/tax-cruncher-biden.jpg" class="thumbnail">
 			<div class ="container">
@@ -238,11 +238,18 @@ a.portcard:visited {
 				<p><i>Analyzes the effect of business tax legislation on investment, GDP, and wages</i></p>
 			</div>
 		</a>
-            <a href="https://fedstate.pslmodels.org" class ="portcard">
-			<img src="/images/Federal_State_Tax.png"  class="thumbnail">
+        <a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
+			<img src="/images/vaccine.jpg"  class="thumbnail">
 			<div class ="container">
-				<h4><b>Federal-State Tax Project</b></h4>
-				<p><i>Modeling the impact of federal tax policy on the 50 states</i></p>
+				<h4><b>Vaccine-Efficacy</b></h4>
+				<p><i>Replication code for assessing the efficacy of COVID-19 vaccines</i></p>
+			</div>
+		</a>
+		<a href="https://github.com/kieran-allsop/Vaccine-Flow-Model" class ="portcard">
+			<img src="/images/transport.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Vaccine-Flow-Model</b></h4>
+				<p><i>Replication code for modeling distribution of COVID-19 vaccines</i></p>
 			</div>
 		</a>
             <a href="https://github.com/donboyd5/weighting" class ="portcard">
@@ -250,13 +257,6 @@ a.portcard:visited {
 			<div class ="container">
 				<h4><b>Weighting</b></h4>
 				<p><i>This package contains functions for weighting, reweighting, and constructing geographic weights for microdata</i></p>
-			</div>
-		</a>
-            <a href="https://policyengine.org/about" class ="portcard">
-			<img src="/images/Policy_Engine.png"  class="thumbnail">
-			<div class ="container">
-				<h4><b>Policy-Engine -US</b></h4>
-				<p><i>Designs tax and benefit reforms</i></p>
 			</div>
 		</a>
 	</div>
