@@ -237,6 +237,13 @@ a.teamcard:visited {
 			<p><i>Tax-Cruncher; CCC-Biden; Tax-Cruncher–Biden</i></p>
 		</div>
 	</a>
+    <a href="https://github.com/Charles-Murray1/" class ="teamcard">
+		<img src ="/images/murray.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Charles Murray</b></h4>
+			<p><i>PUMA-descriptors</i></p>
+		</div>
+	</a>
 		<a href="https://github.com/burkeob" class ="teamcard">
 		<img src ="/images/burke.jpeg" class="picture">
 		<div class ="container">
