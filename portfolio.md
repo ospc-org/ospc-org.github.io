@@ -168,6 +168,13 @@ a.portcard:visited {
 				<p><i>Open source software library for public-policy decisionmaking</i></p>
 			</div>
 		</a>
+        <a href="https://github.com/Charles-Murray1/PUMA-descriptors/" class ="portcard">
+			<img src ="/images/PUMA.png" class="thumbnail">
+			<div class ="container">
+				<h4><b>PUMA-descriptors</b></h4>
+				<p><i>A collection of new geographic variables to be used with ACS data</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
 			<img src="/images/data.jpg"  class="thumbnail">
 			<div class ="container">
