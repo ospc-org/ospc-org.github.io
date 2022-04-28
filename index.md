@@ -38,8 +38,5 @@ Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects
 
 <p align="justify">Please sign up for our newsletter to learn about useful models, events, and resources for public policy decisionmaking.</p>
 
-<p style="text-align:left">Matt Jensen </p>
-<p align="left">Director</p>
-<img src="/images/jensen_oval.png" width="100px" style="float:left">
 </article>
 

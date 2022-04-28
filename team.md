@@ -54,19 +54,20 @@ a.teamcard:visited {
 <br>
 <h1><b>OSPC Staff</b></h1>
 <div class ="wrap">
-    <a href="https://github.com/MattHJensen" class ="teamcard">
-		<img src ="/images/jensen.jpg" class="picture">
-		<div class ="container">
-			<h4><b>Matt Jensen</b></h4>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</a>
     <a href="https://github.com/bodiyang" class ="teamcard">
 		<img src ="/images/yang.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Bodi Yang</b></h4>
 			<p><i>American Enterprise Institute</i></p>
 		</div>
+	</a>
+    <a href="https://github.com/MattHJensen" class ="teamcard">
+        <p class="alumnus"><i>Alumnus - Founding Director</i></p>
+        <img src ="/images/jensen.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Matt Jensen</b></h4>
+			<p><i> </i></p>
+	    </div>
 	</a>
 	<div class ="teamcard">
 		<p class="alumnus"><i>Alumnus</i></p>
