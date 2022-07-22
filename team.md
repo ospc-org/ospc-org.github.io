@@ -59,6 +59,7 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Bodi Yang</b></h4>
 			<p><i>American Enterprise Institute</i></p>
+			<p><i>bodi.yang@aei.org</i></p>
 		</div>
 	</a>
     <a href="https://github.com/MattHJensen" class ="teamcard">
