@@ -175,6 +175,13 @@ a.portcard:visited {
 				<p><i>A collection of new geographic variables to be used with ACS data</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/ospc-org/Alaska-voting" class ="portcard">
+			<img src="/images/voting.jpg"  class="thumbnail">
+			<div class ="container">
+				<h4><b>Ranked Choice Voting in Alaska</b></h4>
+				<p><i>Calculates alternative outcomes of Alaska’s August 2022 special election which used Ranked-Choice Voting to decide a winner</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/MaxGhenis/synthimpute" class ="portcard">
 			<img src="/images/data.jpg"  class="thumbnail">
 			<div class ="container">
