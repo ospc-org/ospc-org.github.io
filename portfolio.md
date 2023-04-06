@@ -70,7 +70,7 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
-        <a href="https://compute.studio/AEIEconomics/CTC-App/" class ="portcard">
+        <a href="https://github.com/grantseiter/Child-Tax-Credit-App" class ="portcard">
 			<img src="/images/child.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Child-Tax-Credit Webapp</b></h4>
@@ -91,7 +91,7 @@ a.portcard:visited {
 				<p><i>Webapp interface for Cost-of-Capital-Calculator</i></p>
 			</div>
 		</a>
-		<a href="https://compute.studio/AEIEconomics/ccc-biden/" class ="portcard">
+		<a href="https://github.com/Peter-Metz/ccc-widget" class ="portcard">
 			<img src ="/images/ccc-biden.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>CCC–Biden Webapp</b></h4>
@@ -196,7 +196,7 @@ a.portcard:visited {
 				<p><i>Creates synthetic individual income tax dataset</i></p>
 			</div>
 		</a>
-		<a href="https://www.compmodels.org/PSLmodels/Tax-Brain/" class ="portcard">
+		<a href="https://github.com/PSLmodels/Tax-Brain" class ="portcard">
 			<img src ="/images/taxbrain.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Brain</b></h4>
@@ -217,14 +217,14 @@ a.portcard:visited {
 				<p><i>Estimates behavioral responses to changes in the US federal tax system</i></p>
 			</div>
 		</a>
-		<a href="https://www.compmodels.org/PSLmodels/Tax-Cruncher/" class ="portcard">
+		<a href="https://github.com/PSLmodels/Tax-Cruncher" class ="portcard">
 			<img src ="/images/Tax-Cruncher-Logo-white.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher</b></h4>
 				<p><i>Calculates individual federal tax liabilities under customizable policy scenarios</i></p>
 			</div>
 		</a>
-        <a href="https://compute.studio/AEIEconomics/Tax-Cruncher-ARP/" class ="portcard">
+        <a href="https://github.com/grantseiter/Tax-Cruncher-ARP/" class ="portcard">
 			<img src="/images/capitol2.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Tax-Cruncher-ARP</b></h4>
