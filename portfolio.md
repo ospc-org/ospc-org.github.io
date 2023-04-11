@@ -70,7 +70,7 @@ a.portcard:visited {
 				<p><i>Evaluates the effects of business tax policy on federal tax revenue</i></p>
 			</div>
 		</a>
-        <a href="https://github.com/grantseiter/Child-Tax-Credit-App" class ="portcard">
+        <a href="https://child-tax-credit-webapp.herokuapp.com/" class ="portcard">
 			<img src="/images/child.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Child-Tax-Credit Webapp</b></h4>
@@ -91,7 +91,7 @@ a.portcard:visited {
 				<p><i>Webapp interface for Cost-of-Capital-Calculator</i></p>
 			</div>
 		</a>
-		<a href="https://github.com/Peter-Metz/ccc-widget" class ="portcard">
+		<a href="https://ccc-biden-webapp.herokuapp.com" class ="portcard">
 			<img src ="/images/ccc-biden.jpg" class="thumbnail">
 			<div class ="container">
 				<h4><b>CCC–Biden Webapp</b></h4>
