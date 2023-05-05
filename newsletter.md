@@ -1,5 +1,5 @@
 ---
-title: Newsletter
+title: Newsletter Archieve
 permalink: /newsletter/
 layout: page
 order: 4
