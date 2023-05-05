@@ -81,11 +81,7 @@ order: 4
 		<p><a href="/newsletter11152018/">November 15, 2018 Newsletter</a></p>
 		<p><a href="/newsletter11022018/">November 02, 2018 Newsletter</a></p>
 	</div>
-	<div class="column">
-		<script style="margin-top: -30px" src="//hello.aei.org/js/forms2/js/forms2.min.js"></script>
-		<form style="margin-top: -30px" id="mktoForm_1256"></form>
-		<script style="margin-top: -30px">MktoForms2.loadForm("//app-sj19.marketo.com", "475-PBQ-971", 1256);</script>
-	</div>
+	
 </div>		
 
 
