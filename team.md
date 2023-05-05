@@ -52,7 +52,7 @@ a.teamcard:visited {
 </style>
 
 <br>
-<h1><b>OSPC Staff</b></h1>
+<h2><b>OSPC Staff</b></h2>
 <div class ="wrap">
     <a href="https://github.com/bodiyang" class ="teamcard">
 		<img src ="/images/yang.jpg" class="picture">
@@ -62,6 +62,11 @@ a.teamcard:visited {
 			<p><i>bodi.yang@aei.org</i></p>
 		</div>
 	</a>
+
+
+<p><br><br></p>
+<h1 style="text-align:left;margin-right:85%"><b>OSPC Alumnus</b></h1>
+<div class ="wrap">
     <a href="https://github.com/MattHJensen" class ="teamcard">
         <p class="alumnus"><i>Alumnus - Founding Director</i></p>
         <img src ="/images/jensen.jpg" class="alum-pic">
@@ -126,6 +131,8 @@ a.teamcard:visited {
 			<p><i>University of Chicago</i></p>
 		</div>
 	</a>
+
+
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:85%"><b>OSPC Incubator</b></h1>
 	<a href="https://github.com/kieran-allsop" class ="teamcard">
