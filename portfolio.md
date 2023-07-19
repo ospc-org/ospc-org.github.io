@@ -112,6 +112,13 @@ a.portcard:visited {
 				<p><i>Adjusts CPS data to account for under-reporting of welfare and transfer program benefits</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/bodiyang/EITC-reform" class ="portcard">
+			<img src ="/images/eitc_reform.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>EITC reforms</b></h4>
+				<p><i>Simulates the effect of 4 EITC reforms to reduce single parenthood</i></p>
+			</div>
+		</a>
         <a href="https://fedstate.pslmodels.org" class ="portcard">
 			<img src="/images/Federal_State_Tax.png"  class="thumbnail">
 			<div class ="container">
