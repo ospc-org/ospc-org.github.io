@@ -113,7 +113,7 @@ a.portcard:visited {
 			</div>
 		</a>
 		<a href="https://github.com/bodiyang/EITC-reform" class ="portcard">
-			<img src ="/images/eitc_reform.jpg" class="thumbnail">
+			<img src ="/images/eitc_reform.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>EITC reforms</b></h4>
 				<p><i>Simulates the effect of 4 EITC reforms to reduce single parenthood</i></p>
