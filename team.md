@@ -304,11 +304,25 @@ a.teamcard:visited {
 			<p><i>Border Adjustment Calculator</i></p>
 		</div>
 	</a>
+		<a class ="teamcard">
+		<img src ="/images/Warshawsky.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Mark Warshawsky</b></h4>
+			<p><i>Billionaires on Medicaid</i></p>
+		</div>
+	</a>
 		<a href="https://github.com/Amy-Xu" class ="teamcard">
 		<img src ="/images/xu.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Amy Xu</b></h4>
 			<p><i>Tax-Calculator; C-TAM; Tax Data</i></p>
+		</div>
+	</a>
+		<a href="https://github.com/bodiyang" class ="teamcard">
+		<img src ="/images/yang.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Bodi Yang</b></h4>
+			<p><i>EITC reforms</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/towashington" class ="teamcard">
