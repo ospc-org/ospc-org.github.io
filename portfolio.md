@@ -63,6 +63,13 @@ a.portcard:visited {
 				<p><i>Simulates the effect of a border adjustment on a representative firm</i></p>
 			</div>
 		</a>
+		<a href="https://github.com/ospc-org/Medicaid-Billionaires" class ="portcard">
+			<img src ="/images/medicaid_billionaires.png" class="thumbnail">
+			<div class ="container">
+				<h4><b>Billionaires on Medicaid</b></h4>
+				<p><i>Estimates underlying Mark J. Warshawsky’s op-ed Billionaires on Medicaid</i></p>
+			</div>
+		</a>
 		<a href="https://github.com/PSLmodels/BRC" class ="portcard">
 			<img src="/images/tax_form.jpg"  class="thumbnail">
 			<div class ="container">
