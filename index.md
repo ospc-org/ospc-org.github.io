@@ -7,7 +7,7 @@ layout: page
 
 <br>
 
-<h1 style="color:gray; margin-left:10%; margin-right:10%">We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</h1>
+<h1 style="color:gray; margin-left:10%; margin-right:10%">OSPC is a project of the American Enterprise Institute. We incubate open source models and share new tools, events, and resources for simulating policy outcomes.</h1>
 
 
 <main class="page-content" aria-label="Content">
