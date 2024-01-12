@@ -93,8 +93,9 @@ Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects
 				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
 			</div>
 		</a>
-</div>               
-
+</div> 
+              
+<br>
 <p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
 
 <p align="justify">Please sign up for our newsletter to learn about useful models, events, and resources for public policy decisionmaking.</p>
