@@ -1,6 +1,53 @@
 ---
 layout: page
 ---
+<style>
+.wrap{
+	width: 100%; 
+}
+.portcard{
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
+	transition: 0.4s;
+	width: 320px;
+	height: 260px;
+	background:#fff;
+	text-align:center;
+	margin-right:5%;
+	margin-bottom:5%;
+	float: left;
+}
+.cardtext{
+	margin:0px 0px 0px 230px;
+	color:white;
+	border:1px;
+	border-style:solid;
+	border-color:gray;
+}
+.incubating{
+	background-color:#FDA037;
+}
+.graduate{
+	background-color:#82D686;
+}
+.thumbnail{
+	height:30%;
+	margin:10px 0px 15px 0px;
+}
+a.portcard {
+	color: black;
+	text-decoration: none;
+}
+a.portcard:hover {
+	color: black;
+	text-decoration: none;
+	background-color: #eff1f2;
+}
+a.portcard:visited {
+	color: black;
+}
+
+</style>
+
 <center>
 <img src="/images/OSPC_logo.png" alt="OSPC" style="max-width:700px; width:75%">
 <h1><b>Open Source Policy Center</b></h1>
@@ -28,6 +75,26 @@ layout: page
 Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
 </div>
 <br>
+
+<p align="justify">OSPC focuses on developing tax models, including Tax-Data and Tax-Calculator </p> 
+
+<div class ="wrap">
+		<a href="https://github.com/PSLmodels/taxdata" class ="portcard">
+			<img src ="/images/taxdata.png" class="thumbnail">
+			<div class ="container">
+				<h4><b>Tax Data</b></h4>
+				<p><i>Prepares data files used in Tax-Calculator</i></p>
+			</div>
+		</a>
+                <a href="https://github.com/PSLmodels/Tax-Calculator" class ="portcard">
+			<img src ="/images/taxcalc.jpg" class="thumbnail">
+			<div class ="container">
+				<h4><b>Tax-Calculator</b></h4>
+				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
+			</div>
+		</a>
+</div>               
+
 <p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
 
 <p align="justify">Please sign up for our newsletter to learn about useful models, events, and resources for public policy decisionmaking.</p>
