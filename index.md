@@ -75,8 +75,13 @@ a.portcard:visited {
 Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
 </div>
 <br>
+<p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
 
-<p align="justify">OSPC focuses on developing tax models, including Tax-Data and Tax-Calculator </p> 
+<p align="justify">Please sign up for our newsletter to learn about useful models, events, and resources for public policy decisionmaking.</p>
+
+<h4 align="left"><b>Tax models</b></h4>
+
+<p align="justify">OSPC focuses on developing tax models, lead by Tax-Data and Tax-Calculator. </p> 
 
 <div class ="wrap">
 		<a href="https://github.com/PSLmodels/taxdata" class ="portcard">
@@ -94,11 +99,7 @@ Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects
 			</div>
 		</a>
 </div> 
-              
-<br>
-<p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
 
-<p align="justify">Please sign up for our newsletter to learn about useful models, events, and resources for public policy decisionmaking.</p>
 
 </article>
 
