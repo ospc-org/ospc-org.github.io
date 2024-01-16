@@ -68,11 +68,11 @@ a.portcard:visited {
 <br>
 <h2 align="left">About</h2>
 
-<h4 align="left"><b>Everything we incubate is open source</b></h4>
+<h4 align="left"><b>The Center</b></h4>
 
-<p style="text-align:justify">Hosted at the American Enterprise Institute, the Open Source Policy Center is built on the principle that better public policy analysis leads to better public policy. Since 2013, OSPC has incubated open source projects, including models and webapps, for predicting the outcomes of public policy. We identify tools that have the potential to fundamentally improve policymaking, and we help tool builders create open source projects that are professional, user oriented, and welcoming to outside technical contributors.</p>
+<p style="text-align:justify">Hosted at the American Enterprise Institute, the Open Source Policy Center is built on the principle that better public policy analysis leads to better public policy. Since 2013, OSPC has incubated open source projects, models and web interface, for predicting the outcomes of public policy. We identify tools that have the potential to fundamentally improve policymaking, and we help tool builders create open source projects that are professional, user oriented, and welcoming to outside technical contributors. </p>
 <div style="text-align:justify">
-Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
+We incubate models across different range of policy areas. Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects supports users including White Houses from both parties; national and local newspapers; dozens of university classes; Presidential campaigns in primary and general elections; academic, think tank, and independent researchers; companies and their consultants; and Congressional committees, specialized subcommittees, leadership offices, and member offices.
 </div>
 <br>
 <p align="justify">Beyond incubation, we are committed to helping users by convening the open source community in Washington, D.C. and educating policymakers, modelers, and the public about open source policy analysis.</p> 
@@ -81,7 +81,15 @@ Our <a style="display:inline-block" href="/portfolio/">portfolio</a> of projects
 
 <h4 align="left"><b>Tax models</b></h4>
 
-<p align="justify">OSPC focuses on developing tax models, lead by Tax-Data and Tax-Calculator. </p> 
+<p align="justify">One of the main focuses for OSPC is the development of tax models. </p> 
+
+<p align="justify">With lead projects Tax-Data and Tax-Calculator, the constellation of models cover the areas of micro-simulation, data extrapolation, data weighting, statistical matching, behavior response. </p> 
+
+<p align="justify">Purpose of the models is for calculation of federal income & payroll taxes, simulation of fiscal policy reforms and for the economic projections. </p> 
+
+<p align="justify">There are also web interfaces for the models. These models have support the research work for scholars from inside and outside of AEI, other think tanks and governmental agencies. </p> 
+
+<p align="justify">Right now we have Tax-Data, Tax-Calculator, Behavior-Response, Tax-Brain (in maintenance) & Tax-Cruncher. We also have work in progress to develop new models, including an independent payroll tax model. </p> 
 
 <div class ="wrap">
 		<a href="https://github.com/PSLmodels/taxdata" class ="portcard">
