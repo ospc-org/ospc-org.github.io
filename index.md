@@ -85,9 +85,9 @@ We incubate models across different range of policy areas. Our <a style="display
 
 <p align="justify">With lead projects Tax-Data and Tax-Calculator, the constellation of models cover the areas of micro-simulation, data extrapolation, data weighting, statistical matching, behavior response. </p> 
 
-<p align="justify">Purpose of the models is for calculation of federal income & payroll taxes, simulation of fiscal policy reforms and for the economic projections. </p> 
+<p align="justify">The models are developed for the calculation of federal income & payroll taxes, simulation of fiscal policy reforms and for the economic projections. </p> 
 
-<p align="justify">There are also web interfaces for the models. These models have support the research work for scholars from inside and outside of AEI, other think tanks and governmental agencies. </p> 
+<p align="justify">These models have support the research work for scholars from inside and outside of AEI, other think tanks and governmental agencies. </p> 
 
 <p align="justify">Right now we have Tax-Data, Tax-Calculator, Behavior-Response, Tax-Brain (in maintenance) & Tax-Cruncher. We also have work in progress to develop new models, including an independent payroll tax model. </p> 
 
