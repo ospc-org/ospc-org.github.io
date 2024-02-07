@@ -11,8 +11,8 @@ order: 2
 .teamcard{
 	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.6);
 	transition: 0.4s;
-	width: 200px;
-	height: 220px;
+	width: 250px;
+	height: 250px;
 	background:#fff;
 	text-align:center;
 	margin-right:40px;
@@ -20,8 +20,8 @@ order: 2
 	float: left;
 }
 .picture{
-	height:40%;
-	margin:30px 0px 10px 0px;
+	height:50%;
+	margin:20px 0px 0px 0px;
 }
 .alum-pic{
 	height:40%;
@@ -57,13 +57,12 @@ a.teamcard:visited {
     <a href="https://github.com/bodiyang" class ="teamcard">
 		<img src ="/images/yang.jpg" class="picture">
 		<div class ="container">
-			<h4><b>Bodi Yang</b></h4>
+			<h3><b>Bodi Yang</b></h3>
 			<p><i>American Enterprise Institute</i></p>
-			<p><i>bodi.yang@aei.org</i></p>
 		</div>
 	</a>
-	
 
+<p style="text-align:left;margin-right:85%"><b>contact: bodi.yang@aei.org</b></p>
 
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:85%"><b>OSPC Alumnus</b></h1>
@@ -73,7 +72,7 @@ a.teamcard:visited {
         <img src ="/images/jensen.jpg" class="alum-pic">
 		<div class ="container">
 			<h4><b>Matt Jensen</b></h4>
-			<p><i> </i></p>
+			<p><i> Open Research Group</i></p>
 	    </div>
 	</a>
 	<div class ="teamcard">
