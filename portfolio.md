@@ -270,7 +270,7 @@ a.portcard:visited {
 			<img src="/images/mpw_warshawsky.jpg"  class="thumbnail">
 			<div class ="container">
 				<h4><b>Unified Macroeconomic Projection Model </b></h4>
-				<p><i>A Unified Long-run Macroeconomic Projection of Health Care Spending, the Federal Budget, and Benefit Programs in the U.S.</i></p>
+				<p><i>A Unified Long-run Macroeconomic Projection of Health Care Spending, the Federal Budget, and Benefit Programs</i></p>
 			</div>
 		</a>
         <a href="https://github.com/kieran-allsop/Vaccine-Efficacy" class ="portcard">
