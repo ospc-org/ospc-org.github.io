@@ -321,7 +321,7 @@ a.teamcard:visited {
 		<img src ="/images/yang.jpg" class="picture">
 		<div class ="container">
 			<h4><b>Bodi Yang</b></h4>
-			<p><i>EITC reforms</i></p>
+			<p><i>Taxcalc-Payroll; Tax-Calculator; Tax-Data; EITC reforms</i></p>
 		</div>
 	</a>
 		<a href="https://github.com/towashington" class ="teamcard">
