@@ -64,74 +64,6 @@ a.teamcard:visited {
 
 <p style="text-align:left;margin-right:85%"><b>contact: bodi.yang@aei.org</b></p>
 
-<p><br><br></p>
-<h1 style="text-align:left;margin-right:85%"><b>OSPC Alumnus</b></h1>
-<div class ="wrap">
-    <a href="https://github.com/MattHJensen" class ="teamcard">
-        <p class="alumnus"><i>Alumnus - Founding Director</i></p>
-        <img src ="/images/jensen.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Matt Jensen</b></h4>
-			<p><i> Open Research Group</i></p>
-	    </div>
-	</a>
-	<div class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/brown.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Edward Brown</b></h4>
-			<p><i>Bureau of Labor Statistics</i></p>
-		</div>
-	</div>
-    <a href="https://github.com/chusloj" class ="teamcard">
-        <p class="alumnus"><i>Alumnus</i></p>
-        <img src ="/images/chuslo.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Jacob Chuslo</b></h4>
-			<p><i>Deloitte</i></p>
-	    </div>
-	</a>
-	<a href="https://github.com/hdoupe" class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/doupe.jpg"  class="alum-pic">
-		<div class ="container">
-			<h4><b>Hank Doupe</b></h4>
-			<p><i>Compute Tooling</i></p>
-		</div>
-	</a>
-	<a href="https://github.com/andersonfrailey" class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/frailey.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Anderson Frailey</b></h4>
-			<p><i>University of Virginia</i></p>
-		</div>
-	</a>
-	<a href="https://github.com/Peter-Metz" class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/metz.jpg"  class="alum-pic">
-		<div class ="container">
-			<h4><b>Peter Metz</b></h4>
-			<p><i>Harvard Business School</i></p>
-		</div>
-	</a>
-	<a href="https://github.com/GoFroggyRun" class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/wang.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Sean Wang</b></h4>
-			<p><i>New York University</i></p>
-		</div>
-	</a>
-	<a href="https://github.com/Amy-Xu" class ="teamcard">
-		<p class="alumnus"><i>Alumnus</i></p>
-		<img src ="/images/xu.jpg" class="alum-pic">
-		<div class ="container">
-			<h4><b>Amy Xu</b></h4>
-			<p><i>University of Chicago</i></p>
-		</div>
-	</a>
-
 
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:85%"><b>OSPC Incubator</b></h1>
@@ -329,6 +261,63 @@ a.teamcard:visited {
 		<div class ="container">
 			<h4><b>Weifeng Zhong</b></h4>
 			<p><i>Policy Change Index - China</i></p>
+		</div>
+	</a>
+	<div class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/brown.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Edward Brown</b></h4>
+		</div>
+	</div>
+    <a href="https://github.com/chusloj" class ="teamcard">
+        <p class="alumnus"><i>Alumnus</i></p>
+        <img src ="/images/chuslo.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Jacob Chuslo</b></h4>
+	    </div>
+	</a>
+	<a href="https://github.com/hdoupe" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/doupe.jpg"  class="alum-pic">
+		<div class ="container">
+			<h4><b>Hank Doupe</b></h4>
+		</div>
+	</a>
+	<a href="https://github.com/andersonfrailey" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/frailey.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Anderson Frailey</b></h4>
+		</div>
+	</a>
+	<div class ="wrap">
+    <a href="https://github.com/MattHJensen" class ="teamcard">
+        <p class="alumnus"><i>Alumnus</i></p>
+        <img src ="/images/jensen.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Matt Jensen</b></h4>
+	    </div>
+	</a>
+	<a href="https://github.com/Peter-Metz" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/metz.jpg"  class="alum-pic">
+		<div class ="container">
+			<h4><b>Peter Metz</b></h4>
+		</div>
+	</a>
+	<a href="https://github.com/GoFroggyRun" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/wang.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Sean Wang</b></h4>
+		</div>
+	</a>
+	<a href="https://github.com/Amy-Xu" class ="teamcard">
+		<p class="alumnus"><i>Alumnus</i></p>
+		<img src ="/images/xu.jpg" class="alum-pic">
+		<div class ="container">
+			<h4><b>Amy Xu</b></h4>
 		</div>
 	</a>
 </div>
