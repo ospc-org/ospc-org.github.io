@@ -106,7 +106,7 @@ We incubate models across different range of policy areas. Our <a style="display
 				<p><i>USA federal individual income and payroll tax microsimulation model</i></p>
 			</div>
 		</a>
-				<a href="https://github.com/bodiyang/Taxcalc-Payroll/tree/master/taxcalcpayroll" class ="portcard">
+				<a href="https://github.com/bodiyang/Taxcalc-Payroll" class ="portcard">
 			<img src ="/images/OSPC_twitter.png" class="thumbnail">
 			<div class ="container">
 				<h4><b>Taxcalc-Payroll</b></h4>
