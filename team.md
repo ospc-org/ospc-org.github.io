@@ -52,19 +52,7 @@ a.teamcard:visited {
 </style>
 
 <br>
-<h2><b>OSPC Staff</b></h2>
-<div class ="wrap">
-    <a href="https://github.com/bodiyang" class ="teamcard">
-		<img src ="/images/yang.jpg" class="picture">
-		<div class ="container">
-			<h3><b>Bodi Yang</b></h3>
-			<p><i>American Enterprise Institute</i></p>
-		</div>
-	</a>
-<p style="text-align:left;margin-right:85%"><b></b></p>
-
-<p><br><br></p>
-<h1 style="text-align:left;margin-right:85%"><b>OSPC Alumnus</b></h1>
+<h1 style="text-align:left;margin-right:85%"><b>OSPC Staff</b></h1>
 
 <div class ="wrap">
     <a href="https://www.linkedin.com/in/bodi-yang-19295311b/" class ="teamcard">
