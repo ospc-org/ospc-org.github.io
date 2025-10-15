@@ -61,11 +61,19 @@ a.teamcard:visited {
 			<p><i>American Enterprise Institute</i></p>
 		</div>
 	</a>
-
-<p style="text-align:left;margin-right:85%"><b>contact: bodi.yang@aei.org</b></p>
+<p style="text-align:left;margin-right:85%"><b></b></p>
 
 <p><br><br></p>
 <h1 style="text-align:left;margin-right:85%"><b>OSPC Alumnus</b></h1>
+<div class ="wrap">
+    <a href="https://www.linkedin.com/in/bodi-yang-19295311b/" class ="teamcard">
+        <p class="alumnus"><i></i></p>
+        <img src ="/images/yang.jpg" class="picture">
+		<div class ="container">
+			<h4><b>Bodi Yang</b></h4>
+			<p><i> </i></p>
+	    </div>
+	</a>
 <div class ="wrap">
     <a href="https://github.com/MattHJensen" class ="teamcard">
         <p class="alumnus"><i>Alumnus - Founding Director</i></p>
